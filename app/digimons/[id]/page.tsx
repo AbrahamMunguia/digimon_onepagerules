@@ -1,28 +1,28 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
-import WishlistButton from "@/components/WishlistButton";
-import { getAllProducts, getProductById } from "@/lib/data";
+import DigifarmButton from "@/components/DigifarmButton";
+import { getAllDigimons, getDigimonById } from "@/lib/data";
 
 export async function generateStaticParams() {
-  const products = await getAllProducts();
-  return products.map((product) => ({ id: String(product.id) }));
+  const digimons = await getAllDigimons();
+  return digimons.map((digimon) => ({ id: String(digimon.id) }));
 }
 
-export default async function ProductDetailPage({ params }: PageProps<"/products/[id]">) {
+export default async function DigimonDetailPage({ params }: PageProps<"/digimons/[id]">) {
   const { id } = await params;
-  const product = await getProductById(Number(id));
-  if (!product) notFound();
+  const digimon = await getDigimonById(Number(id));
+  if (!digimon) notFound();
 
   return (
     <div>
       <p>
-        <Link href="/products">Volver a productos</Link>
+        <Link href="/digimons">Volver a digimons</Link>
       </p>
-      <h1>{product.name}</h1>
-      <p>Etapa: {product.stage.join(" / ")}</p>
-      <WishlistButton productId={product.id} />
+      <h1>{digimon.name}</h1>
+      <p>Etapa: {digimon.stage.join(" / ")}</p>
+      <DigifarmButton digimonId={digimon.id} />
       <p>
-        <Link href={`/products/${product.id}/relationships`}>Ver árbol genealógico</Link>
+        <Link href={`/digimons/${digimon.id}/relationships`}>Ver árbol genealógico</Link>
       </p>
     </div>
   );

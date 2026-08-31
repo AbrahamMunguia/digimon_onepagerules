@@ -1,15 +1,15 @@
 import Link from "next/link";
-import type { Product } from "@/lib/types";
-import WishlistButton from "./WishlistButton";
+import type { Digimon } from "@/lib/types";
+import DigifarmButton from "./DigifarmButton";
 
-export default function ProductCard({ product }: { product: Product }) {
+export default function DigimonCard({ digimon }: { digimon: Digimon }) {
   return (
     <article>
       <h3>
-        <Link href={`/products/${product.id}`}>{product.name}</Link>
+        <Link href={`/digimons/${digimon.id}`}>{digimon.name}</Link>
       </h3>
-      <p>{product.stage.join(" / ")}</p>
-      <WishlistButton productId={product.id} />
+      <p>{digimon.stage.join(" / ")}</p>
+      <DigifarmButton digimonId={digimon.id} />
     </article>
   );
 }

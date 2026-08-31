@@ -1,4 +1,4 @@
-export interface Product {
+export interface Digimon {
   id: number;
   name: string;
   stage: string[];
@@ -10,18 +10,18 @@ export interface RelationshipEdge {
 }
 
 export interface RelationshipNode {
-  product: Product;
+  digimon: Digimon;
   children: RelationshipNode[];
 }
 
 export interface RelationshipTree {
-  product: Product;
-  ancestors: Product[];
+  digimon: Digimon;
+  ancestors: Digimon[];
   descendants: RelationshipNode[];
 }
 
-export interface ProductsPage {
-  items: Product[];
+export interface DigimonsPage {
+  items: Digimon[];
   page: number;
   pageSize: number;
   total: number;

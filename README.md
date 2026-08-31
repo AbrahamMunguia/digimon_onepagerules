@@ -1,6 +1,6 @@
 # Digimon One Page Rules
 
-Frontend de catálogo de Digimon: lista de productos, detalle de producto, wish list
+Frontend de catálogo de Digimon: lista de digimons, detalle de digimon, DigiFarm
 y árbol genealógico (digievoluciones). Next.js App Router + React 19, priorizando
 performance sobre diseño (sin estilos aún).
 
@@ -20,13 +20,13 @@ npm run lint    # eslint
 
 ## Vistas
 
-- `/products` — lista paginada (24 por página) con búsqueda por nombre vía `?q=`.
+- `/digimons` — lista paginada (24 por página) con búsqueda por nombre vía `?q=`.
   Server Component, renderizado dinámico (depende de `searchParams`).
-- `/products/[id]` — detalle de un producto. Estático, prerenderizado en build con
+- `/digimons/[id]` — detalle de un digimon. Estático, prerenderizado en build con
   `generateStaticParams` para las 1317 fichas del catálogo.
-- `/products/[id]/relationships` — árbol genealógico (formas anteriores y
+- `/digimons/[id]/relationships` — árbol genealógico (formas anteriores y
   siguientes de digievolución). También estático.
-- `/wishlist` — Client Component. Lee los ids guardados en `localStorage` y
+- `/digifarm` — Client Component. Lee los ids guardados en `localStorage` y
   resuelve los datos completos vía un Server Action (`lib/actions.ts`), para no
   enviar el catálogo completo al bundle del cliente.
 
@@ -39,7 +39,7 @@ solo trae `id`, `name` y `stage` — el scraper no captura líneas de digievoluc
 `data/relationships.json` es una muestra curada a mano (Botamon → Koromon → Agumon
 → Greymon → MetalGreymon → WarGreymon, y Tsunomon → Gabumon → Garurumon) para
 tener contenido real que probar el árbol genealógico. **No cubre el catálogo
-completo**: la mayoría de los productos no tendrán datos de digievolución hasta
+completo**: la mayoría de los digimons no tendrán datos de digievolución hasta
 que se capture esa relación (por ejemplo ampliando el scraper para leer la
 página de detalle de cada Digimon, que sí muestra sus líneas de evolución).
 
@@ -49,12 +49,12 @@ página de detalle de cada Digimon, que sí muestra sus líneas de evolución).
   funciones `async` aunque hoy lean un JSON local — así se puede apuntar a una
   API o base de datos real sin tocar los call sites.
 - Todas las vistas son Server Components salvo las islas que necesitan
-  interactividad o `localStorage` (`WishlistButton`, `WishlistCount`, la página
-  `/wishlist`), para mantener el JS de cliente al mínimo.
-- El estado de wish list usa `useSyncExternalStore` sobre `localStorage` en vez
+  interactividad o `localStorage` (`DigifarmButton`, `DigifarmCount`, la página
+  `/digifarm`), para mantener el JS de cliente al mínimo.
+- El estado de DigiFarm usa `useSyncExternalStore` sobre `localStorage` en vez
   de `useState` + `useEffect`, evitando un render extra y el parpadeo de
   hidratación típico de leer storage del navegador tras montar.
-- `/products/[id]` y `/products/[id]/relationships` se generan 100% estáticas en
+- `/digimons/[id]` y `/digimons/[id]/relationships` se generan 100% estáticas en
   build (`generateStaticParams`), listas para servirse desde CDN. Si el catálogo
   crece mucho, cambiar a ISR (`dynamicParams: true` + `revalidate`) en vez de
   generar todo en build.

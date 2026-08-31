@@ -1,11 +1,11 @@
 import { Suspense } from "react";
-import ProductCard from "@/components/ProductCard";
+import DigimonCard from "@/components/DigimonCard";
 import Pagination from "@/components/Pagination";
-import { getProductsPage } from "@/lib/data";
+import { getDigimonsPage } from "@/lib/data";
 
 function SearchForm({ query }: { query: string }) {
   return (
-    <form action="/products">
+    <form action="/digimons">
       <label htmlFor="q">Buscar por nombre</label>
       <input type="text" id="q" name="q" defaultValue={query} />
       <button type="submit">Buscar</button>
@@ -13,22 +13,22 @@ function SearchForm({ query }: { query: string }) {
   );
 }
 
-async function ProductResults({
+async function DigimonResults({
   searchParams,
-}: Pick<PageProps<"/products">, "searchParams">) {
+}: Pick<PageProps<"/digimons">, "searchParams">) {
   const params = await searchParams;
   const query = typeof params.q === "string" ? params.q : "";
   const pageParam = typeof params.page === "string" ? Number(params.page) : 1;
 
-  const result = await getProductsPage({ page: pageParam, query });
+  const result = await getDigimonsPage({ page: pageParam, query });
 
   return (
     <>
       <SearchForm query={result.query} />
-      <p>{result.total} productos encontrados.</p>
+      <p>{result.total} digimons encontrados.</p>
       <div>
-        {result.items.map((product) => (
-          <ProductCard key={product.id} product={product} />
+        {result.items.map((digimon) => (
+          <DigimonCard key={digimon.id} digimon={digimon} />
         ))}
       </div>
       <Pagination page={result.page} totalPages={result.totalPages} query={result.query} />
@@ -36,12 +36,12 @@ async function ProductResults({
   );
 }
 
-export default function ProductsPage(props: PageProps<"/products">) {
+export default function DigimonsPage(props: PageProps<"/digimons">) {
   return (
     <div>
-      <h1>Productos</h1>
-      <Suspense fallback={<p>Cargando productos...</p>}>
-        <ProductResults searchParams={props.searchParams} />
+      <h1>Digimons</h1>
+      <Suspense fallback={<p>Cargando digimons...</p>}>
+        <DigimonResults searchParams={props.searchParams} />
       </Suspense>
     </div>
   );

@@ -1,14 +1,14 @@
 import edges from "@/data/relationships.json";
-import { getProductById, productIds } from "./data";
+import { getDigimonById, digimonIds } from "./data";
 import { RelationshipEdgeArraySchema } from "./schemas";
-import type { Product, RelationshipEdge, RelationshipNode, RelationshipTree } from "./types";
+import type { Digimon, RelationshipEdge, RelationshipNode, RelationshipTree } from "./types";
 
 const relationshipEdges: RelationshipEdge[] = RelationshipEdgeArraySchema.parse(edges);
 
 for (const edge of relationshipEdges) {
-  if (!productIds.has(edge.from) || !productIds.has(edge.to)) {
+  if (!digimonIds.has(edge.from) || !digimonIds.has(edge.to)) {
     throw new Error(
-      `data/relationships.json has a dangling edge: ${edge.from} -> ${edge.to} references a product id that doesn't exist in data/digimon.json`,
+      `data/relationships.json has a dangling edge: ${edge.from} -> ${edge.to} references a digimon id that doesn't exist in data/digimon.json`,
     );
   }
 }
@@ -27,18 +27,18 @@ async function buildDescendants(id: number, visited: Set<number>): Promise<Relat
   const nodes: RelationshipNode[] = [];
   for (const childId of childIds) {
     visited.add(childId);
-    const product = await getProductById(childId);
-    if (!product) continue;
+    const digimon = await getDigimonById(childId);
+    if (!digimon) continue;
     nodes.push({
-      product,
+      digimon,
       children: await buildDescendants(childId, visited),
     });
   }
   return nodes;
 }
 
-async function getAncestorChain(id: number): Promise<Product[]> {
-  const chain: Product[] = [];
+async function getAncestorChain(id: number): Promise<Digimon[]> {
+  const chain: Digimon[] = [];
   const visited = new Set<number>([id]);
   let currentId = id;
 
@@ -47,9 +47,9 @@ async function getAncestorChain(id: number): Promise<Product[]> {
   while (true) {
     const [parentId] = getParentIds(currentId);
     if (parentId === undefined || visited.has(parentId)) break;
-    const parentProduct = await getProductById(parentId);
-    if (!parentProduct) break;
-    chain.unshift(parentProduct);
+    const parentDigimon = await getDigimonById(parentId);
+    if (!parentDigimon) break;
+    chain.unshift(parentDigimon);
     visited.add(parentId);
     currentId = parentId;
   }
@@ -58,13 +58,13 @@ async function getAncestorChain(id: number): Promise<Product[]> {
 }
 
 export async function getRelationshipTree(id: number): Promise<RelationshipTree | null> {
-  const product = await getProductById(id);
-  if (!product) return null;
+  const digimon = await getDigimonById(id);
+  if (!digimon) return null;
 
   const [ancestors, descendants] = await Promise.all([
     getAncestorChain(id),
     buildDescendants(id, new Set([id])),
   ]);
 
-  return { product, ancestors, descendants };
+  return { digimon, ancestors, descendants };
 }

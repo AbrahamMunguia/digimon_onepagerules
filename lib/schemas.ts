@@ -7,13 +7,13 @@ import stages from "@/data/stages.json";
 // encyclopedia itself classifies them).
 export const StageSchema = z.enum(stages as [string, ...string[]]);
 
-export const ProductSchema = z.object({
+export const DigimonSchema = z.object({
   id: z.number(),
   name: z.string(),
   stage: z.array(StageSchema),
 });
 
-export const ProductArraySchema = z.array(ProductSchema);
+export const DigimonArraySchema = z.array(DigimonSchema);
 
 export const RelationshipEdgeSchema = z.object({
   from: z.number(),

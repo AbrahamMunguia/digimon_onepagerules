@@ -1,21 +1,21 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Nav from "@/components/Nav";
-import { WishlistProvider } from "@/lib/wishlist-context";
+import { DigifarmProvider } from "@/lib/digifarm-context";
 
 export const metadata: Metadata = {
   title: "Digimon One Page Rules",
-  description: "Catálogo de productos, wish list y árbol genealógico de Digimon.",
+  description: "Catálogo de digimons, DigiFarm y árbol genealógico de Digimon.",
 };
 
 export default function RootLayout({ children }: LayoutProps<"/">) {
   return (
     <html lang="es">
       <body>
-        <WishlistProvider>
+        <DigifarmProvider>
           <Nav />
           <main>{children}</main>
-        </WishlistProvider>
+        </DigifarmProvider>
       </body>
     </html>
   );

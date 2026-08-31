@@ -1,3 +1,3 @@
-export default function LoadingProduct() {
-  return <p>Cargando producto...</p>;
+export default function LoadingDigimon() {
+  return <p>Cargando digimon...</p>;
 }

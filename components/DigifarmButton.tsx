@@ -1,14 +1,14 @@
 "use client";
 
-import { useWishlist } from "@/lib/wishlist-context";
+import { useDigifarm } from "@/lib/digifarm-context";
 
-export default function WishlistButton({ productId }: { productId: number }) {
-  const { has, toggle } = useWishlist();
-  const active = has(productId);
+export default function DigifarmButton({ digimonId }: { digimonId: number }) {
+  const { has, toggle } = useDigifarm();
+  const active = has(digimonId);
 
   return (
-    <button type="button" onClick={() => toggle(productId)}>
-      {active ? "Quitar de la wish list" : "Agregar a la wish list"}
+    <button type="button" onClick={() => toggle(digimonId)}>
+      {active ? "Quitar del DigiFarm" : "Agregar al DigiFarm"}
     </button>
   );
 }

@@ -1,8 +1,8 @@
 "use client";
 
-import { useWishlist } from "@/lib/wishlist-context";
+import { useDigifarm } from "@/lib/digifarm-context";
 
-export default function WishlistCount() {
-  const { ids } = useWishlist();
+export default function DigifarmCount() {
+  const { ids } = useDigifarm();
   return <span>({ids.length})</span>;
 }

@@ -6,8 +6,8 @@ function DescendantList({ nodes }: { nodes: RelationshipNode[] }) {
   return (
     <ul>
       {nodes.map((node) => (
-        <li key={node.product.id}>
-          <Link href={`/products/${node.product.id}`}>{node.product.name}</Link>
+        <li key={node.digimon.id}>
+          <Link href={`/digimons/${node.digimon.id}`}>{node.digimon.name}</Link>
           <DescendantList nodes={node.children} />
         </li>
       ))}
@@ -27,7 +27,7 @@ export default function RelationshipTree({ tree }: { tree: RelationshipTreeData 
           <ul>
             {tree.ancestors.map((ancestor) => (
               <li key={ancestor.id}>
-                <Link href={`/products/${ancestor.id}`}>{ancestor.name}</Link>
+                <Link href={`/digimons/${ancestor.id}`}>{ancestor.name}</Link>
               </li>
             ))}
           </ul>
@@ -37,8 +37,8 @@ export default function RelationshipTree({ tree }: { tree: RelationshipTreeData 
       </section>
 
       <section>
-        <h2>{tree.product.name}</h2>
-        <p>{tree.product.stage.join(" / ")}</p>
+        <h2>{tree.digimon.name}</h2>
+        <p>{tree.digimon.stage.join(" / ")}</p>
       </section>
 
       <section>

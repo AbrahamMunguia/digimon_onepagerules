@@ -1,33 +1,33 @@
 "use client";
 
 import { useEffect, useState, useTransition } from "react";
-import { fetchProductsByIds } from "@/lib/actions";
-import { useWishlist } from "@/lib/wishlist-context";
-import ProductCard from "@/components/ProductCard";
-import type { Product } from "@/lib/types";
+import { fetchDigimonsByIds } from "@/lib/actions";
+import { useDigifarm } from "@/lib/digifarm-context";
+import DigimonCard from "@/components/DigimonCard";
+import type { Digimon } from "@/lib/types";
 
-export default function WishlistPage() {
-  const { ids } = useWishlist();
-  const [products, setProducts] = useState<Product[]>([]);
+export default function DigifarmPage() {
+  const { ids } = useDigifarm();
+  const [digimons, setDigimons] = useState<Digimon[]>([]);
   const [isPending, startTransition] = useTransition();
 
   useEffect(() => {
     startTransition(() => {
-      fetchProductsByIds(ids).then(setProducts);
+      fetchDigimonsByIds(ids).then(setDigimons);
     });
   }, [ids]);
 
   return (
     <div>
-      <h1>Wish list</h1>
+      <h1>DigiFarm</h1>
 
       {isPending ? <p>Cargando...</p> : null}
 
-      {!isPending && ids.length === 0 ? <p>Todavía no agregas productos a tu wish list.</p> : null}
+      {!isPending && ids.length === 0 ? <p>Todavía no agregas digimons a tu DigiFarm.</p> : null}
 
       <div>
-        {products.map((product) => (
-          <ProductCard key={product.id} product={product} />
+        {digimons.map((digimon) => (
+          <DigimonCard key={digimon.id} digimon={digimon} />
         ))}
       </div>
     </div>

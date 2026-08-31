@@ -1,13 +1,13 @@
 import Link from "next/link";
-import WishlistCount from "./WishlistCount";
+import DigifarmCount from "./DigifarmCount";
 
 export default function Nav() {
   return (
     <nav>
       <Link href="/">Inicio</Link>
-      <Link href="/products">Productos</Link>
-      <Link href="/wishlist">
-        Wish list <WishlistCount />
+      <Link href="/digimons">Digimons</Link>
+      <Link href="/digifarm">
+        DigiFarm <DigifarmCount />
       </Link>
     </nav>
   );

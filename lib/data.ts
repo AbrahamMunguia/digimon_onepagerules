@@ -1,37 +1,37 @@
 import { cache } from "react";
-import rawProducts from "@/data/digimon.json";
-import { ProductArraySchema } from "./schemas";
-import type { Product, ProductsPage } from "./types";
+import rawDigimons from "@/data/digimon.json";
+import { DigimonArraySchema } from "./schemas";
+import type { Digimon, DigimonsPage } from "./types";
 
-const products: Product[] = ProductArraySchema.parse(rawProducts);
+const digimons: Digimon[] = DigimonArraySchema.parse(rawDigimons);
 
-export const productIds = new Set(products.map((product) => product.id));
+export const digimonIds = new Set(digimons.map((digimon) => digimon.id));
 
 export const PAGE_SIZE = 24;
 
 // Wrapped in React's cache() so repeated calls within one render pass are
 // deduped, and kept async so this can be swapped for a real fetch()/DB call
 // later without touching any call site.
-export const getAllProducts = cache(async (): Promise<Product[]> => products);
+export const getAllDigimons = cache(async (): Promise<Digimon[]> => digimons);
 
-export const getProductById = cache(
-  async (id: number): Promise<Product | undefined> =>
-    products.find((product) => product.id === id),
+export const getDigimonById = cache(
+  async (id: number): Promise<Digimon | undefined> =>
+    digimons.find((digimon) => digimon.id === id),
 );
 
-export async function getProductsByIds(ids: number[]): Promise<Product[]> {
+export async function getDigimonsByIds(ids: number[]): Promise<Digimon[]> {
   const idSet = new Set(ids);
-  return products.filter((product) => idSet.has(product.id));
+  return digimons.filter((digimon) => idSet.has(digimon.id));
 }
 
-export async function getProductsPage(options: {
+export async function getDigimonsPage(options: {
   page?: number;
   query?: string;
-}): Promise<ProductsPage> {
+}): Promise<DigimonsPage> {
   const query = (options.query ?? "").trim().toLowerCase();
   const filtered = query
-    ? products.filter((product) => product.name.toLowerCase().includes(query))
-    : products;
+    ? digimons.filter((digimon) => digimon.name.toLowerCase().includes(query))
+    : digimons;
 
   const totalPages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
   const page = Math.min(Math.max(1, options.page ?? 1), totalPages);

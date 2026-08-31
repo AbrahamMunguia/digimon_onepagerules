@@ -15,11 +15,11 @@ export default function Pagination({
     const params = new URLSearchParams();
     if (query) params.set("q", query);
     params.set("page", String(targetPage));
-    return `/products?${params.toString()}`;
+    return `/digimons?${params.toString()}`;
   };
 
   return (
-    <nav aria-label="Paginación de productos">
+    <nav aria-label="Paginación de digimons">
       {page > 1 ? <Link href={hrefFor(page - 1)}>Anterior</Link> : <span>Anterior</span>}
       <span>
         {" "}

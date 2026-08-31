@@ -2,7 +2,7 @@
 
 import { createContext, useCallback, useContext, useMemo, useSyncExternalStore } from "react";
 
-const STORAGE_KEY = "digimon-onepagerules:wishlist";
+const STORAGE_KEY = "digimon-onepagerules:digifarm";
 
 const listeners = new Set<() => void>();
 const EMPTY_IDS: number[] = [];
@@ -51,16 +51,16 @@ function writeIds(ids: number[]) {
   listeners.forEach((listener) => listener());
 }
 
-interface WishlistContextValue {
+interface DigifarmContextValue {
   ids: number[];
   has: (id: number) => boolean;
   toggle: (id: number) => void;
   remove: (id: number) => void;
 }
 
-const WishlistContext = createContext<WishlistContextValue | null>(null);
+const DigifarmContext = createContext<DigifarmContextValue | null>(null);
 
-export function WishlistProvider({ children }: { children: React.ReactNode }) {
+export function DigifarmProvider({ children }: { children: React.ReactNode }) {
   const ids = useSyncExternalStore(subscribe, getSnapshot, getServerSnapshot);
 
   const toggle = useCallback((id: number) => {
@@ -78,13 +78,13 @@ export function WishlistProvider({ children }: { children: React.ReactNode }) {
 
   const value = useMemo(() => ({ ids, has, toggle, remove }), [ids, has, toggle, remove]);
 
-  return <WishlistContext.Provider value={value}>{children}</WishlistContext.Provider>;
+  return <DigifarmContext.Provider value={value}>{children}</DigifarmContext.Provider>;
 }
 
-export function useWishlist(): WishlistContextValue {
-  const context = useContext(WishlistContext);
+export function useDigifarm(): DigifarmContextValue {
+  const context = useContext(DigifarmContext);
   if (!context) {
-    throw new Error("useWishlist must be used within a WishlistProvider");
+    throw new Error("useDigifarm must be used within a DigifarmProvider");
   }
   return context;
 }

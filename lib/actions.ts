@@ -1,11 +1,11 @@
 "use server";
 
-import { getProductsByIds } from "./data";
-import type { Product } from "./types";
+import { getDigimonsByIds } from "./data";
+import type { Digimon } from "./types";
 
-// Lets client components (e.g. the wishlist page) resolve product ids stored
-// in localStorage into full records without bundling the product catalog
+// Lets client components (e.g. the digifarm page) resolve digimon ids stored
+// in localStorage into full records without bundling the digimon catalog
 // into client JS.
-export async function fetchProductsByIds(ids: number[]): Promise<Product[]> {
-  return getProductsByIds(ids);
+export async function fetchDigimonsByIds(ids: number[]): Promise<Digimon[]> {
+  return getDigimonsByIds(ids);
 }
