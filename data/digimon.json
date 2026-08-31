@@ -1,0 +1,9314 @@
+[
+  {
+    "id": 1317,
+    "name": "Albatusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1316,
+    "name": "HeliosBoamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1315,
+    "name": "Habakirimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1314,
+    "name": "Bearcatmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1313,
+    "name": "Taowumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1312,
+    "name": "ScourgeChiropmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1311,
+    "name": "Monarchlizamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1310,
+    "name": "Apollomon：Whispered",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1309,
+    "name": "KingWhamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1308,
+    "name": "Armamon:Burst Mode",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1307,
+    "name": "Armamon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1306,
+    "name": "Shoutmon X5S",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1305,
+    "name": "Vortexdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1304,
+    "name": "Shoutmon X4S",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1303,
+    "name": "Shoutmon X3SD",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1302,
+    "name": "Shoutmon X3GM",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1301,
+    "name": "Azhdarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1300,
+    "name": "Tengumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1299,
+    "name": "Amaterasumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1298,
+    "name": "Enmamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1297,
+    "name": "SeitenGokuumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1296,
+    "name": "ExMaquinamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1295,
+    "name": "Dalphomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1294,
+    "name": "Shishimamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1293,
+    "name": "Darumamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1292,
+    "name": "Rhamphomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1291,
+    "name": "Chronomon: Destroy Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1290,
+    "name": "Chronomon: Holy Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1289,
+    "name": "Butenmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1288,
+    "name": "Buraimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1287,
+    "name": "Hyokomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1286,
+    "name": "Chicchimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1285,
+    "name": "ZombiePlutomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1284,
+    "name": "Manekimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1283,
+    "name": "Hakubamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1282,
+    "name": "Wankomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1281,
+    "name": "Gasamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1280,
+    "name": "Takinmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1279,
+    "name": "Fujamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1278,
+    "name": "Kakamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1277,
+    "name": "Armalizamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1276,
+    "name": "Onibimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1275,
+    "name": "Tomorimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1274,
+    "name": "Mococomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1273,
+    "name": "Fukamon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1272,
+    "name": "Parallelmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1271,
+    "name": "Nightchiropmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1270,
+    "name": "Styracomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1269,
+    "name": "Taotiemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1268,
+    "name": "Craniamon + Enbarrmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1267,
+    "name": "Enbarrmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1266,
+    "name": "Metatromon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1265,
+    "name": "GreatGrizzlymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1264,
+    "name": "Titamon+SkullBaluchimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1263,
+    "name": "Cougarmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1262,
+    "name": "MasterBlimpmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1261,
+    "name": "Hyemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1260,
+    "name": "Murasamemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1259,
+    "name": "Wolvermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1258,
+    "name": "Chiropmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1257,
+    "name": "Pristimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1256,
+    "name": "Dullahamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1255,
+    "name": "GEKKOMON",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1254,
+    "name": "Kekkomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1253,
+    "name": "Kekomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1252,
+    "name": "Magneticdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1251,
+    "name": "Maneuvermon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1250,
+    "name": "Turbomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1249,
+    "name": "Nyabootmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1248,
+    "name": "Yihumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1247,
+    "name": "Ariemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1246,
+    "name": "SkullSeadramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1245,
+    "name": "Sharkmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1244,
+    "name": "Kaguyamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1243,
+    "name": "Karakurumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1242,
+    "name": "Kokeshimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1241,
+    "name": "Hanimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1240,
+    "name": "MockingBirdmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1239,
+    "name": "Mulemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1238,
+    "name": "Maquinamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1237,
+    "name": "Nezhamon:Crimson Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1236,
+    "name": "Shagaramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1235,
+    "name": "Medusamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1234,
+    "name": "Lamiamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1233,
+    "name": "Necromon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1232,
+    "name": "Jougamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1231,
+    "name": "Pyramidimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1230,
+    "name": "Proganomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1229,
+    "name": "Landramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1228,
+    "name": "Invisimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1227,
+    "name": "Oblivimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1226,
+    "name": "Dimetromon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1225,
+    "name": "Ryugumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1224,
+    "name": "Cernumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1223,
+    "name": "MarineBullmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1222,
+    "name": "Elizamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1221,
+    "name": "Nezhamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1220,
+    "name": "Dinomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1219,
+    "name": "Skadimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1218,
+    "name": "PolarBearmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1217,
+    "name": "Erlangmon: Blast Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1216,
+    "name": "QueenBeemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1215,
+    "name": "Vespamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1214,
+    "name": "ForgeBeemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1213,
+    "name": "HeavyMetaldramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1212,
+    "name": "Loudmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1211,
+    "name": "Punkmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1210,
+    "name": "Takutoumon:Wrath Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1209,
+    "name": "Erlangmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1208,
+    "name": "Cendrillmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1207,
+    "name": "Chaperomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1206,
+    "name": "Zephagamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1205,
+    "name": "GrandGalemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1204,
+    "name": "Fluffymon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1203,
+    "name": "Yolkmon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1202,
+    "name": "Callismon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1201,
+    "name": "Tlalocmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1200,
+    "name": "ShoeShoemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1199,
+    "name": "Shoemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1198,
+    "name": "Galemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1197,
+    "name": "Pteromon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1196,
+    "name": "Takutoumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1195,
+    "name": "Fenriloogamon: Takemikazuchi",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1194,
+    "name": "BigUkkomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1193,
+    "name": "Ukkomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1192,
+    "name": "Dijiangmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1191,
+    "name": "Xingtianmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1190,
+    "name": "Lianpumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1189,
+    "name": "Dominimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1188,
+    "name": "ArkhaiAngemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1187,
+    "name": "Luxmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1186,
+    "name": "Fanglongmon: Ruin Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1185,
+    "name": "Moonmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1184,
+    "name": "Sunmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1183,
+    "name": "Brigadramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1182,
+    "name": "Hi-Commandramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1181,
+    "name": "Fenriloogamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1180,
+    "name": "Helloogarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1179,
+    "name": "Soloogarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1178,
+    "name": "Cargodramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1177,
+    "name": "Loogarmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1176,
+    "name": "Bowmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1175,
+    "name": "Fusamon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1174,
+    "name": "Quantumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1173,
+    "name": "Loogamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1172,
+    "name": "Proximamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1171,
+    "name": "Arcturusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1170,
+    "name": "GreyKnightsmon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1169,
+    "name": "Zanmetsumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1168,
+    "name": "Bombermon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1167,
+    "name": "Ghilliedhumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1166,
+    "name": "Fumamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1165,
+    "name": "Cthyllamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1164,
+    "name": "Regulusmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1163,
+    "name": "Galacticmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1162,
+    "name": "Destromon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1161,
+    "name": "Snatchmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1160,
+    "name": "Vemmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1159,
+    "name": "Baalmon（X antibody）",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1158,
+    "name": "Amphimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1157,
+    "name": "Diarbbitmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1156,
+    "name": "Siriusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1155,
+    "name": "ShineGreymon: Ruin Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1154,
+    "name": "Chamblemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1153,
+    "name": "Publimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1152,
+    "name": "Oleamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1151,
+    "name": "Huankunmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1150,
+    "name": "Xiangpengmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1149,
+    "name": "Xiquemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1148,
+    "name": "Imperialdramon: Fighter Mode (Black)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1147,
+    "name": "Greymon (Blue)(X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1146,
+    "name": "Oboromon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1145,
+    "name": "Gyuukimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1144,
+    "name": "ShinMonzaemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1143,
+    "name": "HoverEspimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1142,
+    "name": "Espimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1141,
+    "name": "Jupitermon: Wrath Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1140,
+    "name": "Plutomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1139,
+    "name": "Ceresmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1138,
+    "name": "Bacchusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1137,
+    "name": "Junomon: Hysteric Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1136,
+    "name": "Junomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1135,
+    "name": "Thetismon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1134,
+    "name": "Lamortmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1133,
+    "name": "Canoweissmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1132,
+    "name": "Sistermon Ciel (Awakened)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1131,
+    "name": "Sistermon Noir (Awakened)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1130,
+    "name": "Sistermon Blanc (Awakened)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1129,
+    "name": "GulusGammamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1128,
+    "name": "TeslaJellymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1127,
+    "name": "SymbareAngoramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1126,
+    "name": "BlackGatomon Uver.",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1125,
+    "name": "Weddinmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1124,
+    "name": "Shortmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1123,
+    "name": "BlackRapidmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1122,
+    "name": "BlackGargomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1121,
+    "name": "Omnimon Zwart Defeat",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1120,
+    "name": "WezenGammamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1119,
+    "name": "KausGammamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1118,
+    "name": "BetelGammamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1117,
+    "name": "Abbadomon Core",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1116,
+    "name": "Luminamon (Nene Version)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1115,
+    "name": "Shoutmon X7: Superior Mode",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1114,
+    "name": "Jellymon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1113,
+    "name": "Puyoyomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1112,
+    "name": "Puyomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1111,
+    "name": "Angoramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1110,
+    "name": "Bosamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1109,
+    "name": "Pyonmon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1108,
+    "name": "Gammamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1107,
+    "name": "Gurimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1106,
+    "name": "Curimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1105,
+    "name": "Abbadomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1104,
+    "name": "Negamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1103,
+    "name": "PileVolcanomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1102,
+    "name": "Raidenmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1101,
+    "name": "Raijinmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1100,
+    "name": "DoKunemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1099,
+    "name": "ModokiBetamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1098,
+    "name": "Hydramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1097,
+    "name": "Bloomlordmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1096,
+    "name": "Ajatarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1095,
+    "name": "Guardromon (Gold)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1094,
+    "name": "Burgamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1093,
+    "name": "Piddomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1092,
+    "name": "SandYanmamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1091,
+    "name": "Yanmamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1090,
+    "name": "MoriShellmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1089,
+    "name": "BomberNanimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1088,
+    "name": "HerculesKabuterimon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1087,
+    "name": "Starmon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1086,
+    "name": "Growlmon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1085,
+    "name": "Hagurumon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1084,
+    "name": "Gaiomon: Itto Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1083,
+    "name": "Brachiomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1082,
+    "name": "Kyukimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1081,
+    "name": "Vermilimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1080,
+    "name": "Assaultmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1079,
+    "name": "Tekkamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1078,
+    "name": "Vulturemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1077,
+    "name": "Tumblemon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1076,
+    "name": "Sandmon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1075,
+    "name": "Burpmon",
+    "stage": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": 1074,
+    "name": "BlackKingNumemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1073,
+    "name": "GoldNumemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1072,
+    "name": "Calumon",
+    "stage": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": 1071,
+    "name": "Gladimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1070,
+    "name": "Shoutmon X4K",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1069,
+    "name": "KoDokugumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1068,
+    "name": "Yoxtu!Yoxtu!mon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1067,
+    "name": "Minidekachimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1066,
+    "name": "Atamadekachimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1065,
+    "name": "Trailmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1064,
+    "name": "KingSukamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1063,
+    "name": "Shroudmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1062,
+    "name": "FrosVelgrmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1061,
+    "name": "Frozomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1060,
+    "name": "Hiyarimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1059,
+    "name": "BlackSeraphimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1058,
+    "name": "RareRaremon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1057,
+    "name": "Climbmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1056,
+    "name": "Divemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1055,
+    "name": "ClearAgumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1054,
+    "name": "BanchoLillymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1053,
+    "name": "MetalGreymon (Vaccine) (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1052,
+    "name": "IceLeomon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1051,
+    "name": "MetalMamemon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1050,
+    "name": "Thundermon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1049,
+    "name": "Monochromon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1048,
+    "name": "Dobermon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1047,
+    "name": "Gesomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1046,
+    "name": "Gotsumon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1045,
+    "name": "Crabmon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1044,
+    "name": "Guilmon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1043,
+    "name": "Shoutmon EX6",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 1042,
+    "name": "TorikaraBallmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1041,
+    "name": "Burgamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1040,
+    "name": "Potamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1039,
+    "name": "Achillesmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1038,
+    "name": "Shivamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1037,
+    "name": "Kazuchimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1036,
+    "name": "Pistmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1035,
+    "name": "Tempomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1034,
+    "name": "Shootmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1033,
+    "name": "Boutmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1032,
+    "name": "Mitamamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1031,
+    "name": "LovelyAngemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1030,
+    "name": "Bibimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1029,
+    "name": "Dokimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1028,
+    "name": "Namakemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1027,
+    "name": "Runnermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1026,
+    "name": "Exermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1025,
+    "name": "Bulkmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1024,
+    "name": "Komondomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1023,
+    "name": "Pulsemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1022,
+    "name": "Omnimon: Merciful Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1021,
+    "name": "DoneDevimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1020,
+    "name": "WereGarurumon: Sagittarius Mode",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1019,
+    "name": "Imperialdramon: Dragon Mode (Black)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1018,
+    "name": "Manticoremon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1017,
+    "name": "Mimicmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1016,
+    "name": "Baluchimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1015,
+    "name": "DarkMaildramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1014,
+    "name": "MetalGreymon: Alterous Mode",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1013,
+    "name": "Rebellimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1012,
+    "name": "Machmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1011,
+    "name": "Junkmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1010,
+    "name": "HeavyLeomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1009,
+    "name": "Hopmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 1008,
+    "name": "Ketomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1007,
+    "name": "Nidhoggmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 1006,
+    "name": "Entmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1005,
+    "name": "Parasaurmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1004,
+    "name": "Toropiamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 1003,
+    "name": "Pomumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 1002,
+    "name": "Eyesmon: Scatter Mode",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1001,
+    "name": "Eyesmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 1000,
+    "name": "Betamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 999,
+    "name": "Gazimon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 998,
+    "name": "Argomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 997,
+    "name": "Ghostmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 996,
+    "name": "Regalecusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 995,
+    "name": "Piranimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 994,
+    "name": "Gusokumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 993,
+    "name": "MarineChimairamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 992,
+    "name": "Tobiumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 991,
+    "name": "Sangomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 990,
+    "name": "Gogmamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 989,
+    "name": "Baboongamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 988,
+    "name": "Sunarizamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 987,
+    "name": "JewelBeemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 986,
+    "name": "Hudiemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 985,
+    "name": "Arresterdramon: Superior Mode",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 984,
+    "name": "Garurumon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 983,
+    "name": "Greymon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 982,
+    "name": "Argomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 981,
+    "name": "Argomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 980,
+    "name": "Argomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 979,
+    "name": "Spadamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 978,
+    "name": "Morphomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 977,
+    "name": "Eosmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 976,
+    "name": "Gabumon (Bond of Friendship)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 975,
+    "name": "Agumon (Bond of Bravery)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 974,
+    "name": "Eosmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 973,
+    "name": "Eosmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 972,
+    "name": "TonosamaMamemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 971,
+    "name": "Omnimon Zwart",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 970,
+    "name": "Terriermon Assistant",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 969,
+    "name": "CrysPaledramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 968,
+    "name": "Metallicdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 967,
+    "name": "Jazarichmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 966,
+    "name": "Jazardmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 965,
+    "name": "Jazamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 964,
+    "name": "Hexeblaumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 963,
+    "name": "Paledramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 962,
+    "name": "NoblePumpkinmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 961,
+    "name": "Ogudomon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 960,
+    "name": "Jesmon GX",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 959,
+    "name": "Keramon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 958,
+    "name": "OmniShoutmon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 957,
+    "name": "Meramon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 956,
+    "name": "Pegasusmon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 955,
+    "name": "Rapidmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 954,
+    "name": "Monzaemon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 953,
+    "name": "Gankoomon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 952,
+    "name": "Examon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 951,
+    "name": "Cyberdramon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 950,
+    "name": "RizeGreymon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 949,
+    "name": "Phoenixmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 948,
+    "name": "Justimon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 947,
+    "name": "Wizardmon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 946,
+    "name": "Seasarmon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 945,
+    "name": "Cherubimon (Good) (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 944,
+    "name": "Ophanimon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 943,
+    "name": "Angewomon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 942,
+    "name": "Diaboromon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 941,
+    "name": "Dynasmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 940,
+    "name": "Leopardmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 939,
+    "name": "Magnadramon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 938,
+    "name": "Plesiomon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 937,
+    "name": "Goldramon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 936,
+    "name": "Garudamon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 935,
+    "name": "Gatomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 934,
+    "name": "Togemon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 933,
+    "name": "Tylomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 932,
+    "name": "Lopmon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 931,
+    "name": "Syakomon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 930,
+    "name": "Terriermon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 929,
+    "name": "Palmon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 928,
+    "name": "Pteramon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 927,
+    "name": "Mamemon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 926,
+    "name": "Ebemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 925,
+    "name": "Kentaurosmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 924,
+    "name": "Craniamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 923,
+    "name": "UlforceVeedramon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 922,
+    "name": "Magnamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 921,
+    "name": "MegaSeadramon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 920,
+    "name": "Triceramon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 919,
+    "name": "Okuwamon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 918,
+    "name": "Mantaraymon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 917,
+    "name": "Nefertimon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 916,
+    "name": "Seadramon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 915,
+    "name": "Kuwagamon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 914,
+    "name": "Allomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 913,
+    "name": "Gomamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 912,
+    "name": "Kokuwamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 911,
+    "name": "BlackWarGreymon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 910,
+    "name": "LadyDevimon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 909,
+    "name": "MetalGreymon (Virus) (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 908,
+    "name": "Ogremon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 907,
+    "name": "Agumon (Black) (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 906,
+    "name": "Rasenmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 905,
+    "name": "Rasenmon: Fury Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 904,
+    "name": "Stefilmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 903,
+    "name": "Filmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 902,
+    "name": "Rosemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 901,
+    "name": "PrinceMamemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 900,
+    "name": "SkullMammothmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 899,
+    "name": "Mammothmon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 898,
+    "name": "Mephistomon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 897,
+    "name": "Myotismon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 896,
+    "name": "Salamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 895,
+    "name": "Otamamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 894,
+    "name": "Yaamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 893,
+    "name": "Keemon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 892,
+    "name": "Impmon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 891,
+    "name": "DarkTyrannomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 890,
+    "name": "Numemon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 889,
+    "name": "Lucemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 888,
+    "name": "Lilithmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 887,
+    "name": "Leviamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 886,
+    "name": "Belphemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 885,
+    "name": "Barbamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 884,
+    "name": "Creepymon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 883,
+    "name": "DarkKnightmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 882,
+    "name": "Cherubimon (Black) (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 881,
+    "name": "Ophanimon: Falldown Mode (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 880,
+    "name": "UltimateChaosmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 879,
+    "name": "Pusurimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 878,
+    "name": "Pusumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 877,
+    "name": "Surfimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 876,
+    "name": "Bulucomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 875,
+    "name": "Herissmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 874,
+    "name": "MetalGarurumon (Black)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 873,
+    "name": "WereGarurumon (Black)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 872,
+    "name": "Garurumon (Black)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 871,
+    "name": "Justimon: Blitz Arm",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 870,
+    "name": "Ginkakumon Promote",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 869,
+    "name": "IceDevimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 868,
+    "name": "Kuzuhamon: Maid Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 867,
+    "name": "WarGrowlmon (Orange)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 866,
+    "name": "Greymon (Blue)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 865,
+    "name": "Shoutmon (King Version)",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 864,
+    "name": "WarGreymon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 863,
+    "name": "MetalGarurumon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 862,
+    "name": "Megidramon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 861,
+    "name": "WereGarurumon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 860,
+    "name": "Lillymon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 859,
+    "name": "Sakuyamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 858,
+    "name": "Beelzemon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 857,
+    "name": "WarGrowlmon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 856,
+    "name": "Rhinomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 855,
+    "name": "Renamon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 854,
+    "name": "Tokomon (X Antibody)",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 853,
+    "name": "BeelStarmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 852,
+    "name": "Gallantmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 851,
+    "name": "Cerberusmon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 850,
+    "name": "Tyrannomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 849,
+    "name": "Dracomon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 848,
+    "name": "Gabumon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 847,
+    "name": "Minervamon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 846,
+    "name": "LordKnightmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 845,
+    "name": "Sistermon Ciel",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 844,
+    "name": "MetalTyrannomon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 843,
+    "name": "Leomon (X Antibody)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 842,
+    "name": "Agumon (X Antibody)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 841,
+    "name": "Jesmon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 840,
+    "name": "RagnaLoardmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 839,
+    "name": "Rafflesimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 838,
+    "name": "Ordinemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 837,
+    "name": "RaptorSparrowmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 836,
+    "name": "BanchoGolemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 835,
+    "name": "Cerberusmon: Werewolf Mode",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 834,
+    "name": "Growlmon (Orange)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 833,
+    "name": "ToyAgumon (Black)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 832,
+    "name": "ShootingStarmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 831,
+    "name": "Justimon: Critical Arm",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 830,
+    "name": "Crowmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 829,
+    "name": "Dinohyumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 828,
+    "name": "Rapidmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 827,
+    "name": "JaegerDorulumon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 826,
+    "name": "Gundramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 825,
+    "name": "Aegiochusmon: Holy",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 824,
+    "name": "Gabumon (Black)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 823,
+    "name": "Pipimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 822,
+    "name": "Raguelmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 821,
+    "name": "BryweLudramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 820,
+    "name": "Volcanicdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 819,
+    "name": "Lavogaritamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 818,
+    "name": "Maycrackmon: Vicious Mode",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 817,
+    "name": "Mastemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 816,
+    "name": "Boltboutamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 815,
+    "name": "RaijiLudomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 814,
+    "name": "TiaLudomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 813,
+    "name": "Lavorvomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 812,
+    "name": "BushiAgumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 811,
+    "name": "Ludomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 810,
+    "name": "Kakkinmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 809,
+    "name": "Cotsucomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 808,
+    "name": "Antylamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 807,
+    "name": "Meicoomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 806,
+    "name": "Whamon (Champion)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 805,
+    "name": "Gekomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 804,
+    "name": "Vorvomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 803,
+    "name": "AtlurBallistamon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 802,
+    "name": "Omnimon Alter-B",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 801,
+    "name": "BlackMachGaogamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 800,
+    "name": "BlackGaogamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 799,
+    "name": "Falcomon (2006 Anime Version)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 798,
+    "name": "Kudamon (2006 Anime Version)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 797,
+    "name": "NEO",
+    "stage": [
+      "Unknown"
+    ]
+  },
+  {
+    "id": 796,
+    "name": "Yakiimon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 795,
+    "name": "Monimon",
+    "stage": [
+      "In-TrainingⅡ",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 794,
+    "name": "Monitamon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 793,
+    "name": "Mervamon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 792,
+    "name": "MetalGreymon + Cyber Launcher",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 791,
+    "name": "MetalGreymon (2010 Anime Version)",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 790,
+    "name": "MailBirdramon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 789,
+    "name": "MusouKnightmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 788,
+    "name": "MadLeomon: Armed Mode",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 787,
+    "name": "MadLeomon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 786,
+    "name": "Bommon (2010 Anime Version)",
+    "stage": [
+      "In-TrainingⅠ",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 785,
+    "name": "Beelzemon (2010 Anime Version)",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 784,
+    "name": "Blastmon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 783,
+    "name": "Footmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 782,
+    "name": "Pillomon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 781,
+    "name": "Pickmon",
+    "stage": [
+      "In-TrainingⅡ",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 780,
+    "name": "Ballistamon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 779,
+    "name": "Bakomon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 778,
+    "name": "Bagramon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 777,
+    "name": "Hi-VisionMonitamon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 776,
+    "name": "Baalmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 775,
+    "name": "NeoMyotismon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 774,
+    "name": "Dondokomon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 773,
+    "name": "DonShoutmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 772,
+    "name": "Dorulumon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 771,
+    "name": "Dorbickmon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 770,
+    "name": "Troopmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 769,
+    "name": "DeadlyAxemon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 768,
+    "name": "Deckerdramon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 767,
+    "name": "DeckerGreymon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 766,
+    "name": "Tuwarmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 765,
+    "name": "ChuuChuumon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 764,
+    "name": "Chibickmon",
+    "stage": [
+      "In-TrainingⅠ",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 763,
+    "name": "Chikurimon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 762,
+    "name": "Damemon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 761,
+    "name": "Tactimon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 760,
+    "name": "DarknessBagramon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 759,
+    "name": "DarkKnightmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 758,
+    "name": "Zenimon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 757,
+    "name": "Splashmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 756,
+    "name": "Sparrowmon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 755,
+    "name": "Starmons",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 754,
+    "name": "SkullKnightmon: Mighty Axe Mode",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 753,
+    "name": "SkullKnightmon: Cavalier Mode",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 752,
+    "name": "SkullKnightmon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 751,
+    "name": "Jokermon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 750,
+    "name": "Shanitamon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 749,
+    "name": "Shoutmon + Dorulu Cannon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 748,
+    "name": "Shoutmon + Star Sword",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 747,
+    "name": "Shoutmon + Jet Sparrow",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 746,
+    "name": "Shoutmon X7",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 745,
+    "name": "Shoutmon X5B",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 744,
+    "name": "Shoutmon X5",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 743,
+    "name": "Shoutmon X4B",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 742,
+    "name": "Shoutmon X4",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 741,
+    "name": "Shoutmon X3",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 740,
+    "name": "Shoutmon X2",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 739,
+    "name": "Shoutmon DX",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 738,
+    "name": "Shoutmon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 737,
+    "name": "JetMervamon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 736,
+    "name": "ZeigGreymon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 735,
+    "name": "Zamielmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 734,
+    "name": "Soundbirdmon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 733,
+    "name": "Cyberdramon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 732,
+    "name": "Kozenimon",
+    "stage": [
+      "In-TrainingⅡ",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 731,
+    "name": "Greymon (2010 Anime Version)",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 730,
+    "name": "Gravimon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 729,
+    "name": "Cutemon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 728,
+    "name": "Gumdramon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 727,
+    "name": "Ganemon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 726,
+    "name": "Gaossmon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 725,
+    "name": "Olegmon",
+    "stage": [
+      "Mega",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 724,
+    "name": "OmniShoutmon",
+    "stage": [
+      "Ultimate",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 723,
+    "name": "Ekakimon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 722,
+    "name": "Ignitemon",
+    "stage": [
+      "Rookie",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 721,
+    "name": "Arresterdramon",
+    "stage": [
+      "Champion",
+      "Xros Wars"
+    ]
+  },
+  {
+    "id": 720,
+    "name": "Loweemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 719,
+    "name": "Lanamon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 718,
+    "name": "Rhihimon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 717,
+    "name": "RhinoKabuterimon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 716,
+    "name": "Mercurymon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 715,
+    "name": "MagnaGarurumon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 714,
+    "name": "MetalKabuterimon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 713,
+    "name": "Velgrmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 712,
+    "name": "Petaldramon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 711,
+    "name": "Beowolfmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 710,
+    "name": "Flamemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 709,
+    "name": "Beetlemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 708,
+    "name": "Korikakumon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 707,
+    "name": "Kazemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 706,
+    "name": "Kumamon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 705,
+    "name": "Duskmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 704,
+    "name": "DaiPenmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 703,
+    "name": "Sephirothmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 702,
+    "name": "Strabimon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 701,
+    "name": "Zephyrmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 700,
+    "name": "JetSilphymon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 699,
+    "name": "Grumblemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 698,
+    "name": "Gigasmon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 697,
+    "name": "KendoGarurumon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 696,
+    "name": "Calmaramon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 695,
+    "name": "EmperorGreymon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 694,
+    "name": "JagerLoweemon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 693,
+    "name": "BurningGreymon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 692,
+    "name": "Lobomon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 691,
+    "name": "Arbormon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 690,
+    "name": "Aldamon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 689,
+    "name": "Agunimon",
+    "stage": [
+      "Hybrid"
+    ]
+  },
+  {
+    "id": 688,
+    "name": "Rinkmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 687,
+    "name": "Lynxmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 686,
+    "name": "Rhinomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 685,
+    "name": "Lighdramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 684,
+    "name": "Yasyamon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 683,
+    "name": "Mothmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 682,
+    "name": "Maildramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 681,
+    "name": "Moosemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 680,
+    "name": "Manbomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 679,
+    "name": "Mantaraymon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 678,
+    "name": "Magnamon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 677,
+    "name": "Ponchomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 676,
+    "name": "Halsemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 675,
+    "name": "Boarmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 674,
+    "name": "Pegasusmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 673,
+    "name": "Frogmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 672,
+    "name": "Prairiemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 671,
+    "name": "Flamedramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 670,
+    "name": "FlameWizardmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 669,
+    "name": "Bullmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 668,
+    "name": "Flybeemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 667,
+    "name": "Pteramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 666,
+    "name": "Bucchiemon (Green)",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 665,
+    "name": "Bucchiemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 664,
+    "name": "Pipismon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 663,
+    "name": "Rabbitmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 662,
+    "name": "Peacockmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 661,
+    "name": "Baronmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 660,
+    "name": "Honeybeemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 659,
+    "name": "Butterflymon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 658,
+    "name": "Harpymon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 657,
+    "name": "Nohemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 656,
+    "name": "Nefertimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 655,
+    "name": "Togemogumon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 654,
+    "name": "Toucanmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 653,
+    "name": "Depthmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 652,
+    "name": "Tylomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 651,
+    "name": "Digmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 650,
+    "name": "Sepikmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 649,
+    "name": "Sethmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 648,
+    "name": "Swanmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 647,
+    "name": "Stegomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 646,
+    "name": "Shurimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 645,
+    "name": "Shadramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 644,
+    "name": "Seahomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 643,
+    "name": "Sheepmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 642,
+    "name": "Thunderbirdmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 641,
+    "name": "Salamandermon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 640,
+    "name": "Submarimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 639,
+    "name": "Sagittarimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 638,
+    "name": "Searchmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 637,
+    "name": "Kongoumon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 636,
+    "name": "GoldVeedramon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 635,
+    "name": "Goatmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 634,
+    "name": "Kenkimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 633,
+    "name": "Quetzalmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 632,
+    "name": "Kangarumon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 631,
+    "name": "Chameleonmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 630,
+    "name": "Kabukimon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 629,
+    "name": "Gargoylemon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 628,
+    "name": "Orcamon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 627,
+    "name": "Opossummon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 626,
+    "name": "Elephantmon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 625,
+    "name": "Allomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 624,
+    "name": "Archelomon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 623,
+    "name": "Aurumon",
+    "stage": [
+      "Armor"
+    ]
+  },
+  {
+    "id": 622,
+    "name": "LordKnightmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 621,
+    "name": "Lotosmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 620,
+    "name": "Rosemon: Burst Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 619,
+    "name": "Rosemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 618,
+    "name": "Ravemon: Burst Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 617,
+    "name": "Ravemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Lucemon: Larva",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Lucemon: Satan Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Lilithmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 613,
+    "name": "Leviamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 612,
+    "name": "Lampmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "RustTyrannomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "Rasielmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "Jupitermon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Merukimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "MedievalGallantmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "MetalPiranimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 605,
+    "name": "MetalSeadramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 604,
+    "name": "MetalGarurumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 603,
+    "name": "MetalEtemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 602,
+    "name": "Megidramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 601,
+    "name": "MoonMillenniummon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 600,
+    "name": "Murmukusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 599,
+    "name": "Machinedramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 598,
+    "name": "Millenniummon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 597,
+    "name": "MirageGaogamon: Burst Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 596,
+    "name": "MirageGaogamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 595,
+    "name": "Minervamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 594,
+    "name": "Marsmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 593,
+    "name": "MarineAngemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 592,
+    "name": "MagnaKidmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 591,
+    "name": "Boltmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Magnadramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Phoenixmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 588,
+    "name": "Belphemon: Rage Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 587,
+    "name": "Belphemon: Sleep Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 586,
+    "name": "Beelzemon: Blast Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 585,
+    "name": "Beelzemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 584,
+    "name": "BeelStarmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 583,
+    "name": "MaloMyotismon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 582,
+    "name": "HerculesKabuterimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 581,
+    "name": "Plesiomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 580,
+    "name": "Breakdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 579,
+    "name": "PrinceMamemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 578,
+    "name": "BlitzGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 577,
+    "name": "BlackSaintGargomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 576,
+    "name": "BlackWarGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 575,
+    "name": "PlatinumNumemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 574,
+    "name": "Pukumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 573,
+    "name": "Fujinmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 572,
+    "name": "Fanglongmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 571,
+    "name": "Pharaohmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Puppetmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "VictoryGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 568,
+    "name": "Piedmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 567,
+    "name": "BanchoLeomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 566,
+    "name": "BanchoMamemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 565,
+    "name": "BanchoStingmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 564,
+    "name": "Barbamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 563,
+    "name": "Parasimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 562,
+    "name": "Babamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 561,
+    "name": "Baihumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 560,
+    "name": "HiAndromon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 559,
+    "name": "Neptunemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 558,
+    "name": "Dorugoramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 557,
+    "name": "Leopardmon: Leopard Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 556,
+    "name": "Leopardmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 555,
+    "name": "Durandamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 554,
+    "name": "Dynasmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 553,
+    "name": "Gallantmon: Crimson Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 552,
+    "name": "Gallantmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Devitamamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Ghoulmon (Black)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 549,
+    "name": "Ghoulmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 548,
+    "name": "DeathXmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "Creepymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 546,
+    "name": "DexDorugoramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Dinorexmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 544,
+    "name": "Dinotigermon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 543,
+    "name": "Diaboromon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 542,
+    "name": "Dianamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 541,
+    "name": "Azulongmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 540,
+    "name": "Darkdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "TyrantKabuterimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 538,
+    "name": "Titamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 537,
+    "name": "TigerVespamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "MegaGargomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 535,
+    "name": "Seraphimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 534,
+    "name": "Slayerdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 533,
+    "name": "Kentaurosmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 532,
+    "name": "SlashAngemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 531,
+    "name": "Spinomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 530,
+    "name": "Susanomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 529,
+    "name": "SkullMammothmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 528,
+    "name": "Zhuqiaomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 527,
+    "name": "Suijinmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 526,
+    "name": "ZeedMillenniummon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 525,
+    "name": "ZeedGarurumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 524,
+    "name": "JumboGamemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 523,
+    "name": "Justimon: Accel Arm",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 522,
+    "name": "Shakamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 521,
+    "name": "ShineGreymon: Burst Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 520,
+    "name": "ShineGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 519,
+    "name": "Jijimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 518,
+    "name": "Ebonwumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 517,
+    "name": "Jesmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 516,
+    "name": "Zanbamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 515,
+    "name": "Sakuyamon: Maid Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 514,
+    "name": "Sakuyamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 513,
+    "name": "SaberLeomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 512,
+    "name": "Goldramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 511,
+    "name": "Reapermon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 510,
+    "name": "Cherubimon (Black)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 509,
+    "name": "Cherubimon (Good)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 508,
+    "name": "Eaglemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 507,
+    "name": "Craniamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 506,
+    "name": "GraceNovamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 505,
+    "name": "Gryphonmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 504,
+    "name": "GroundLocomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 503,
+    "name": "GranDracmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 502,
+    "name": "GrandisKuwagamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 501,
+    "name": "GranKuwagamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 500,
+    "name": "ClavisAngemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 499,
+    "name": "Kuzuhamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 498,
+    "name": "Quartzmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 497,
+    "name": "CresGarurumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 496,
+    "name": "QueenChessmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 495,
+    "name": "KingChessmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 494,
+    "name": "KingEtemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 493,
+    "name": "Cannondramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 492,
+    "name": "GigaSeadramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 491,
+    "name": "Gankoomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 490,
+    "name": "Gulfmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 489,
+    "name": "Chaosmon: Valdur Arm",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 488,
+    "name": "Chaosmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Chaosdramon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Chaosdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 485,
+    "name": "ChaosGallantmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 484,
+    "name": "Gaiomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 483,
+    "name": "Omnimon Alter-S",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 482,
+    "name": "Omnimon (X Antibody)",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 481,
+    "name": "Omnimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 480,
+    "name": "Ophanimon: Falldown Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 479,
+    "name": "Ophanimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 478,
+    "name": "Ornismon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 477,
+    "name": "Ogudomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 476,
+    "name": "Ouryumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 475,
+    "name": "AncientWisemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 474,
+    "name": "AncientMegatheriummon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 473,
+    "name": "AncientMermaimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 472,
+    "name": "AncientVolcanomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 471,
+    "name": "AncientBeetlemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 470,
+    "name": "AncientTroymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "AncientSphinxmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 468,
+    "name": "AncientGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 467,
+    "name": "AncientGarurumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 466,
+    "name": "AncientKazemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 465,
+    "name": "Eldradimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 464,
+    "name": "Examon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 463,
+    "name": "Vulcanusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 462,
+    "name": "WarGreymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 461,
+    "name": "VenomMyotismon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 460,
+    "name": "Venusmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 459,
+    "name": "Varodurumon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 458,
+    "name": "Valkyrimon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 457,
+    "name": "Vikemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 456,
+    "name": "Ebemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 455,
+    "name": "Aegisdramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 454,
+    "name": "Imperialdramon: Fighter Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 453,
+    "name": "Imperialdramon: Paladin Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 452,
+    "name": "Imperialdramon: Dragon Mode",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 451,
+    "name": "King Drasil_7D6",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 450,
+    "name": "UlforceVeedramon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 449,
+    "name": "Alphamon: Ouryuken",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 448,
+    "name": "Alphamon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 447,
+    "name": "UltimateBrachiomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 446,
+    "name": "Argomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 445,
+    "name": "Apollomon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 444,
+    "name": "Apocalymon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 443,
+    "name": "Anubismon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 442,
+    "name": "Armageddemon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 441,
+    "name": "AvengeKidmon",
+    "stage": [
+      "Mega"
+    ]
+  },
+  {
+    "id": 440,
+    "name": "WaruMonzaemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 439,
+    "name": "WaruSeadramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Wisemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "WereGarurumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 436,
+    "name": "Locomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 435,
+    "name": "LoaderLeomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 434,
+    "name": "LadyDevimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "Luminamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "Lucemon: Chaos Mode",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 431,
+    "name": "RookChessmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 430,
+    "name": "Lillymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 429,
+    "name": "Rapidmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 428,
+    "name": "Lilamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 427,
+    "name": "RizeGreymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 426,
+    "name": "Crowmon (2006 Anime Version)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 425,
+    "name": "Monzaemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 424,
+    "name": "Mephistomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 423,
+    "name": "MetalMamemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 422,
+    "name": "MetalPhantomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 421,
+    "name": "MetalTyrannomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "MetalGreymon (Vaccine)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 419,
+    "name": "MetalGreymon (Virus)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 418,
+    "name": "MetallifeKuwagamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 417,
+    "name": "WarGrowlmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 416,
+    "name": "Megadramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 415,
+    "name": "MegaSeadramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 414,
+    "name": "Maycrackmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 413,
+    "name": "Mihiramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 412,
+    "name": "Mistymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 411,
+    "name": "Mammothmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 410,
+    "name": "MarineDevimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 409,
+    "name": "Mametyramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 408,
+    "name": "Mamemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 407,
+    "name": "Mummymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 406,
+    "name": "MachGaogamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 405,
+    "name": "Matadormon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 404,
+    "name": "MasterTyrannomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 403,
+    "name": "Majiramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 402,
+    "name": "Makuramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 401,
+    "name": "Mermaimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 400,
+    "name": "Volcanomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 399,
+    "name": "MagnaAngemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 398,
+    "name": "Whamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 397,
+    "name": "Betsumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "Vademon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 395,
+    "name": "Vademon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 394,
+    "name": "Blossomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 393,
+    "name": "Flaremon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 392,
+    "name": "BlueMeramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 391,
+    "name": "BlackWarGrowlmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 390,
+    "name": "Feresmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Phantomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 388,
+    "name": "HippoGryphonmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 387,
+    "name": "Piximon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "BigMamemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 385,
+    "name": "BishopChessmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 384,
+    "name": "Hisyaryumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Pumpkinmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 382,
+    "name": "Pandamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 381,
+    "name": "IceLeomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 380,
+    "name": "Divermon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 379,
+    "name": "Parrotmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 378,
+    "name": "Bulbmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 377,
+    "name": "Bastemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 376,
+    "name": "Pajiramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 375,
+    "name": "Paildramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 374,
+    "name": "NeoDevimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 373,
+    "name": "Datamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 372,
+    "name": "Knightmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 371,
+    "name": "DoruGreymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 370,
+    "name": "Triceramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 369,
+    "name": "ShogunGekomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 368,
+    "name": "Doumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Deramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 366,
+    "name": "Duramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "SkullMeramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 364,
+    "name": "Digitamamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 363,
+    "name": "DexDoruGreymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 362,
+    "name": "Dinobeemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 361,
+    "name": "Cho-Hakkaimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 360,
+    "name": "Caturamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 359,
+    "name": "Chirinmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 358,
+    "name": "Tankdramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 357,
+    "name": "Dragomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 356,
+    "name": "Taomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 355,
+    "name": "DarkSuperStarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 354,
+    "name": "Sirenmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 353,
+    "name": "SaviorHuckmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 352,
+    "name": "Zudomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 351,
+    "name": "SkullScorpiomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 350,
+    "name": "SkullBaluchimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 349,
+    "name": "SkullSatamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 348,
+    "name": "SkullGreymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "SuperStarmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 346,
+    "name": "Sinduramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 345,
+    "name": "Silphymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 344,
+    "name": "Cherrymon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 343,
+    "name": "Shakkoumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 342,
+    "name": "Jagamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 341,
+    "name": "Shaujinmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 340,
+    "name": "Sandiramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 339,
+    "name": "Sanzomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 338,
+    "name": "Sagomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Cyberdramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 336,
+    "name": "Gokuumon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 335,
+    "name": "Cerberusmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 334,
+    "name": "Kumbhiramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 333,
+    "name": "Crescemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 332,
+    "name": "Grademon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 331,
+    "name": "GrapLeomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 330,
+    "name": "Groundramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Giromon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "CaptainHookmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "CannonBeemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 326,
+    "name": "CatchMamemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 325,
+    "name": "Kimeramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 324,
+    "name": "Gigadramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 323,
+    "name": "Garudamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 322,
+    "name": "Karatenmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 321,
+    "name": "Garbagemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 320,
+    "name": "Orochimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 319,
+    "name": "Okuwamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 318,
+    "name": "Angewomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 317,
+    "name": "Etemon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 316,
+    "name": "ExTyrannomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 315,
+    "name": "AeroVeedramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 314,
+    "name": "Volcdramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 313,
+    "name": "Wingdramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 312,
+    "name": "Vikaralamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 311,
+    "name": "Myotismon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 310,
+    "name": "Vajramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 309,
+    "name": "Infermon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 308,
+    "name": "Indramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 307,
+    "name": "Meteormon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 306,
+    "name": "Andromon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Antylamon (Deva)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 304,
+    "name": "Argomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 303,
+    "name": "Arukenimon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 302,
+    "name": "Scorpiomon (X Antibody)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 301,
+    "name": "Scorpiomon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 300,
+    "name": "MegaKabuterimon (Red)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "MegaKabuterimon (Blue)",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 298,
+    "name": "Astamon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 297,
+    "name": "Asuramon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 296,
+    "name": "Aegiochusmon: Blue",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Aegiochusmon: Dark",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Aegiochusmon: Green",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Aegiochusmon",
+    "stage": [
+      "Ultimate"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Waspmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 291,
+    "name": "Reppamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 290,
+    "name": "RedVegiemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 289,
+    "name": "Lekismon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 288,
+    "name": "Leomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 287,
+    "name": "Raremon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 286,
+    "name": "Dolphmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 285,
+    "name": "Deputymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 284,
+    "name": "Raptordramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 283,
+    "name": "Liamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 282,
+    "name": "Youkomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 281,
+    "name": "Unimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 280,
+    "name": "Frigimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 279,
+    "name": "Monochromon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 278,
+    "name": "Mojyamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 277,
+    "name": "Meramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 276,
+    "name": "Mekanorimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 275,
+    "name": "Musyamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 274,
+    "name": "Minotarumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 273,
+    "name": "Mikemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 272,
+    "name": "Porcupamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 271,
+    "name": "Peckmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 270,
+    "name": "Vegiemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 269,
+    "name": "BladeKuwagamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 268,
+    "name": "Flarerizamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 267,
+    "name": "Blimpmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 266,
+    "name": "BlackGatomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 265,
+    "name": "BlackGrowlmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "PlatinumSukamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Flymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Hookmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 261,
+    "name": "Boogiemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 260,
+    "name": "Fugamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 259,
+    "name": "Veedramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 258,
+    "name": "Fangmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "Firamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 256,
+    "name": "Hyogamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 255,
+    "name": "Petermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 254,
+    "name": "Apemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Bakemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 252,
+    "name": "BaoHuckmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 251,
+    "name": "Birdramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 250,
+    "name": "Numemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 249,
+    "name": "NiseDrimogemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "Nanimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "KnightChessmon (White)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 246,
+    "name": "KnightChessmon (Black)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 245,
+    "name": "Dorugamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 244,
+    "name": "Drimogemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 243,
+    "name": "TobuCatmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 242,
+    "name": "Doggymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 241,
+    "name": "Togemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 240,
+    "name": "Dokugumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 239,
+    "name": "Dobermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 238,
+    "name": "Tortomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Turuiemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 236,
+    "name": "Deltamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 235,
+    "name": "Devimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 234,
+    "name": "Devidramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "DexDorugamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 232,
+    "name": "Gatomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 231,
+    "name": "Tyrannomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 230,
+    "name": "Diatrymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 229,
+    "name": "MudFrigimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 228,
+    "name": "Tankmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Darcmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Tuskmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Targetmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "DarkLizardmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "DarkTyrannomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Sorcermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 221,
+    "name": "Soulmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 220,
+    "name": "Saberdramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 219,
+    "name": "ZubaEagermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 218,
+    "name": "Snimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 217,
+    "name": "Strikedramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 216,
+    "name": "Stingmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Starmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Sukamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "JungleMojyamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "ShimaUnimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 211,
+    "name": "Sistermon Noir",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 210,
+    "name": "GeoGreymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Shellmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 208,
+    "name": "Shademon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 207,
+    "name": "Sealsdramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 206,
+    "name": "Coelamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 205,
+    "name": "Seadramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 204,
+    "name": "Seasarmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Sunflowmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 202,
+    "name": "Thundermon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Sangloupmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 200,
+    "name": "Weedmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 199,
+    "name": "Cyclonemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 198,
+    "name": "Gorillamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 197,
+    "name": "Roachmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 196,
+    "name": "Golemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 195,
+    "name": "Kokatorimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 194,
+    "name": "Kogamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 193,
+    "name": "Coredramon (Green)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 192,
+    "name": "Coredramon (Blue)",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 191,
+    "name": "Centarumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 190,
+    "name": "Geremon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 189,
+    "name": "Gesomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 188,
+    "name": "Kuwagamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 187,
+    "name": "Clockmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 186,
+    "name": "Greymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 185,
+    "name": "Gururumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 184,
+    "name": "Grizzlymon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 183,
+    "name": "Kurisarimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 182,
+    "name": "Growlmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 181,
+    "name": "Ginryumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 180,
+    "name": "Ginkakumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Kinkakumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Kyubimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Kiwimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 176,
+    "name": "Gawappamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Garurumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Gargomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "ShellNumemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Kabuterimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 171,
+    "name": "Guardromon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Gaogamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Omekamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 168,
+    "name": "Octomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 167,
+    "name": "Ogremon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 166,
+    "name": "Angemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 165,
+    "name": "Ebidramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "ExVeemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 163,
+    "name": "Airdramon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 162,
+    "name": "Woodmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Wendigomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 160,
+    "name": "Witchmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 159,
+    "name": "Wizardmon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 158,
+    "name": "Vilemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 157,
+    "name": "Ikkakumon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 156,
+    "name": "Ninjamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 155,
+    "name": "Ankylomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 154,
+    "name": "Aquilamon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 153,
+    "name": "Akatorimon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 152,
+    "name": "Icemon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 151,
+    "name": "Aegiomon",
+    "stage": [
+      "Champion"
+    ]
+  },
+  {
+    "id": 150,
+    "name": "Wormmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 149,
+    "name": "Lopmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 148,
+    "name": "Renamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 147,
+    "name": "Liollmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 146,
+    "name": "Lunamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 145,
+    "name": "Lucemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Ryudamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Lalamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Labramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "SnowAgumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Monodramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Muchomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 138,
+    "name": "Mushroomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 137,
+    "name": "Bokomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 136,
+    "name": "PawnChessmon (White)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 135,
+    "name": "PawnChessmon (Black)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 134,
+    "name": "Hawkmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 133,
+    "name": "Penmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 132,
+    "name": "Betamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 131,
+    "name": "Bearmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 130,
+    "name": "Salamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 129,
+    "name": "Floramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 128,
+    "name": "Veemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 127,
+    "name": "FunBeemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 126,
+    "name": "Falcomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 125,
+    "name": "Phascomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 124,
+    "name": "Biyomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "DemiDevimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Palmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Huckmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Patamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Hagurumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Tapirmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Neemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Fake Agumon Expert",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Dorumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 114,
+    "name": "Dracomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Dracmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "ToyAgumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Tentomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Terriermon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Tinkermon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Tsukaimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Chuumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Solarmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Zubamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "SnowGoblimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Swimmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Syakomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Shamamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Sistermon Blanc",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Psychemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Coronamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Commandramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Gomamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Goblimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Kotemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Gotsumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Kokuwamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "KoKabuterimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Monmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Keramon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Kunemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Kudamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Guilmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Candlemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Gizamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "Kamemon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "Gabumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 81,
+    "name": "Crabmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 80,
+    "name": "Gazimon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 79,
+    "name": "Gaomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 78,
+    "name": "Otamamon (Red)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 77,
+    "name": "Otamamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 76,
+    "name": "Elecmon (Violet)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 75,
+    "name": "Elecmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 74,
+    "name": "EbiBurgamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 73,
+    "name": "Impmon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Aruraumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 71,
+    "name": "Armadillomon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 70,
+    "name": "Arcadiamon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 69,
+    "name": "Agumon Expert",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 68,
+    "name": "Agumon (Black)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 67,
+    "name": "Agumon (2006 Anime Version)",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 66,
+    "name": "Agumon",
+    "stage": [
+      "Rookie"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "Wanyamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 64,
+    "name": "Motimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 63,
+    "name": "Minomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 62,
+    "name": "Missimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 61,
+    "name": "Poromon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 60,
+    "name": "Viximon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 59,
+    "name": "Bebydomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 58,
+    "name": "Puroromon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 57,
+    "name": "Frimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 56,
+    "name": "DemiMeramon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 55,
+    "name": "Bukamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 54,
+    "name": "Yokomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Pinamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "Budmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 51,
+    "name": "Pagumon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Nyaromon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Dorimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Tokomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Tsumemon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Tsunomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Kokomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Chapmon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "DemiVeemon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Tanemon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Xiaomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Sakuttomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Koromon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Gummymon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Kyokyomon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Cupimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Kyaromon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Gigimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Kapurimon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Upamon",
+    "stage": [
+      "In-TrainingⅡ"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Relemon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Leafmon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Yuramon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "YukimiBotamon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Mokumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Poyomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "Bommon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "Popomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "Botamon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "Puwamon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "Pururumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "Pupumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 19,
+    "name": "Fufumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Punimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Puttimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Petitmon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Pichimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Pafumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Pabumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Paomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Nyokimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Dodomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Tsubumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Choromon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Chibomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Zerimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zurumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Jyarimon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Sakumon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Conomon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Kuramon",
+    "stage": [
+      "In-TrainingⅠ"
+    ]
+  }
+]
