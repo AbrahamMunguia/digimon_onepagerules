@@ -1,13 +1,9 @@
-export default function Footer() {
+import type { Dictionary } from "@/app/[lang]/dictionaries";
+
+export default function Footer({ dict }: { dict: Dictionary["footer"] }) {
   return (
     <footer>
-      <p>
-        Digimon One Page Rules es un proyecto de fans, de código abierto y sin
-        fines de lucro, sin afiliación, patrocinio ni aprobación de Toei
-        Animation ni de Bandai. Digimon y todos los nombres, personajes e
-        ilustraciones relacionados son marcas registradas y propiedad
-        intelectual de sus respectivos dueños.
-      </p>
+      <p>{dict.disclaimer}</p>
     </footer>
   );
 }

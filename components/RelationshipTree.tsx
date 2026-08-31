@@ -1,38 +1,47 @@
 import Link from "next/link";
 import type { RelationshipNode, RelationshipTree as RelationshipTreeData } from "@/lib/types";
+import type { Dictionary, Locale } from "@/app/[lang]/dictionaries";
 
-function DescendantList({ nodes }: { nodes: RelationshipNode[] }) {
+function DescendantList({ nodes, lang }: { nodes: RelationshipNode[]; lang: Locale }) {
   if (nodes.length === 0) return null;
   return (
     <ul>
       {nodes.map((node) => (
         <li key={node.digimon.id}>
-          <Link href={`/digimons/${node.digimon.id}`}>{node.digimon.name}</Link>
-          <DescendantList nodes={node.children} />
+          <Link href={`/${lang}/digimons/${node.digimon.id}`}>{node.digimon.name}</Link>
+          <DescendantList nodes={node.children} lang={lang} />
         </li>
       ))}
     </ul>
   );
 }
 
-export default function RelationshipTree({ tree }: { tree: RelationshipTreeData }) {
+export default function RelationshipTree({
+  tree,
+  lang,
+  dict,
+}: {
+  tree: RelationshipTreeData;
+  lang: Locale;
+  dict: Dictionary["relationships"];
+}) {
   const hasAncestors = tree.ancestors.length > 0;
   const hasDescendants = tree.descendants.length > 0;
 
   return (
     <div>
       <section>
-        <h2>Formas anteriores</h2>
+        <h2>{dict.ancestorsTitle}</h2>
         {hasAncestors ? (
           <ul>
             {tree.ancestors.map((ancestor) => (
               <li key={ancestor.id}>
-                <Link href={`/digimons/${ancestor.id}`}>{ancestor.name}</Link>
+                <Link href={`/${lang}/digimons/${ancestor.id}`}>{ancestor.name}</Link>
               </li>
             ))}
           </ul>
         ) : (
-          <p>Sin datos de digievolución anterior todavía.</p>
+          <p>{dict.noAncestors}</p>
         )}
       </section>
 
@@ -42,11 +51,11 @@ export default function RelationshipTree({ tree }: { tree: RelationshipTreeData 
       </section>
 
       <section>
-        <h2>Formas siguientes</h2>
+        <h2>{dict.descendantsTitle}</h2>
         {hasDescendants ? (
-          <DescendantList nodes={tree.descendants} />
+          <DescendantList nodes={tree.descendants} lang={lang} />
         ) : (
-          <p>Sin datos de digievolución siguiente todavía.</p>
+          <p>{dict.noDescendants}</p>
         )}
       </section>
     </div>
