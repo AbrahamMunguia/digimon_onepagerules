@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import "./globals.css";
 import Nav from "@/components/Nav";
+import Footer from "@/components/Footer";
 import { DigifarmProvider } from "@/lib/digifarm-context";
 
 export const metadata: Metadata = {
@@ -15,6 +16,7 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
         <DigifarmProvider>
           <Nav />
           <main>{children}</main>
+          <Footer />
         </DigifarmProvider>
       </body>
     </html>
