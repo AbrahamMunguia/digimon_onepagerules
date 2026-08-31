@@ -1,0 +1,29 @@
+name: Code standards
+
+on:
+  pull_request:
+    types: [opened, edited, reopened, synchronize]
+
+permissions:
+  contents: read
+
+jobs:
+  pr-title:
+    name: PR title (Conventional Commits)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate PR title
+        env:
+          PR_TITLE: ${{ github.event.pull_request.title }}
+        run: .githooks/lib/check-pr-title.sh "$PR_TITLE"
+
+  branch-name:
+    name: Branch name (Conventional Branch)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate source branch name
+        env:
+          HEAD_REF: ${{ github.head_ref }}
+        run: .githooks/lib/check-branch-name.sh "$HEAD_REF"
