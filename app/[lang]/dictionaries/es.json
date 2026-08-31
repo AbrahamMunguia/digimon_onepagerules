@@ -1,0 +1,87 @@
+{
+  "metadata": {
+    "title": "Digimon One Page Rules",
+    "description": "Catálogo de digimons, DigiFarm y árbol genealógico de Digimon."
+  },
+  "nav": {
+    "home": "Inicio",
+    "digimons": "Digimons",
+    "evolutionTreeCreate": "Evolution Tree: Create",
+    "evolutionTreeView": "Evolution Tree: View",
+    "digifarm": "DigiFarm"
+  },
+  "languageSwitcher": {
+    "label": "Idioma",
+    "es": "Español",
+    "en": "English"
+  },
+  "footer": {
+    "disclaimer": "Digimon One Page Rules es un proyecto de fans, de código abierto y sin fines de lucro, sin afiliación, patrocinio ni aprobación de Toei Animation ni de Bandai. Digimon y todos los nombres, personajes e ilustraciones relacionados son marcas registradas y propiedad intelectual de sus respectivos dueños."
+  },
+  "home": {
+    "title": "Digimon One Page Rules",
+    "intro": "Catálogo de referencia de Digimon y herramientas para armar tu lista de deseados.",
+    "digimonsListLink": "Lista de digimons",
+    "digimonsListDescription": "explora y busca en el catálogo completo.",
+    "digifarmLink": "DigiFarm",
+    "digifarmDescription": "revisa los digimons que marcaste como deseados.",
+    "note": "Cada digimon en la lista tiene un enlace a su árbol genealógico (formas anteriores y siguientes de digievolución)."
+  },
+  "notFound": {
+    "title": "No encontrado",
+    "message": "El digimon o la página que buscas no existe.",
+    "backToDigimons": "Volver a digimons"
+  },
+  "digimons": {
+    "title": "Digimons",
+    "searchLabel": "Buscar por nombre",
+    "searchButton": "Buscar",
+    "loading": "Cargando digimons...",
+    "resultsCount": "{count} digimons encontrados."
+  },
+  "digimonDetail": {
+    "backToDigimons": "Volver a digimons",
+    "stage": "Etapa",
+    "viewRelationships": "Ver árbol genealógico",
+    "loading": "Cargando digimon..."
+  },
+  "relationships": {
+    "backToDigimon": "Volver al digimon",
+    "ancestorsTitle": "Formas anteriores",
+    "noAncestors": "Sin datos de digievolución anterior todavía.",
+    "descendantsTitle": "Formas siguientes",
+    "noDescendants": "Sin datos de digievolución siguiente todavía.",
+    "loading": "Cargando árbol genealógico..."
+  },
+  "pagination": {
+    "ariaLabel": "Paginación de digimons",
+    "previous": "Anterior",
+    "next": "Siguiente",
+    "pageOf": "Página {page} de {totalPages}"
+  },
+  "evolutionTree": {
+    "title": "Evolution Tree",
+    "create": "Create",
+    "view": "View"
+  },
+  "evolutionTreeCreate": {
+    "title": "Evolution Tree: Create",
+    "comingSoon": "Próximamente."
+  },
+  "evolutionTreeView": {
+    "backToEvolutionTree": "Volver a Evolution Tree",
+    "title": "Evolution Tree: View",
+    "chooseLine": "Elige una línea evolutiva para visualizar:"
+  },
+  "evolutionTreeViewDetail": {
+    "backToList": "Volver a la lista",
+    "loading": "Cargando árbol evolutivo..."
+  },
+  "digifarm": {
+    "title": "DigiFarm",
+    "loading": "Cargando...",
+    "empty": "Todavía no agregas digimons a tu DigiFarm.",
+    "add": "Agregar al DigiFarm",
+    "remove": "Quitar del DigiFarm"
+  }
+}

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import RelationshipTree from "@/components/RelationshipTree";
 import { getAllDigimons } from "@/lib/data";
 import { getRelationshipTree } from "@/lib/relationships";
+import { getDictionary, hasLocale } from "../../../dictionaries";
 
 export async function generateStaticParams() {
   const digimons = await getAllDigimons();
@@ -11,17 +12,20 @@ export async function generateStaticParams() {
 
 export default async function DigimonRelationshipsPage({
   params,
-}: PageProps<"/digimons/[id]/relationships">) {
-  const { id } = await params;
+}: PageProps<"/[lang]/digimons/[id]/relationships">) {
+  const { lang, id } = await params;
+  if (!hasLocale(lang)) notFound();
+  const dict = await getDictionary(lang);
+
   const tree = await getRelationshipTree(Number(id));
   if (!tree) notFound();
 
   return (
     <div>
       <p>
-        <Link href={`/digimons/${id}`}>Volver al digimon</Link>
+        <Link href={`/${lang}/digimons/${id}`}>{dict.relationships.backToDigimon}</Link>
       </p>
-      <RelationshipTree tree={tree} />
+      <RelationshipTree tree={tree} lang={lang} dict={dict.relationships} />
     </div>
   );
 }
