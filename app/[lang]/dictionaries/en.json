@@ -66,7 +66,19 @@
   },
   "evolutionTreeCreate": {
     "title": "Evolution Tree: Create",
-    "comingSoon": "Coming soon."
+    "backToEvolutionTree": "Back to Evolution Tree",
+    "instructions": "Build your own digivolution line: start with an In-TrainingⅠ and add branches stage by stage (In-TrainingⅡ, Rookie, Armor/Champion/Ultimate/Hybrid, and finally Mega). You can add several branches at each step, and Unknown or Xros Wars digimon can be added at any stage. Armor can't evolve any further.",
+    "rootLabel": "Pick the starting In-TrainingⅠ",
+    "searchLabel": "Search by name",
+    "searchPlaceholder": "Digimon name",
+    "addButton": "Add",
+    "removeButton": "Remove",
+    "resetButton": "Start over",
+    "confirmReset": "Start over? The current tree will be lost.",
+    "armorTerminalNote": "Armor can't evolve any further.",
+    "noResults": "No results.",
+    "resultsTruncated": "Showing the first {count} results, refine your search to see more.",
+    "loading": "Loading..."
   },
   "evolutionTreeView": {
     "backToEvolutionTree": "Back to Evolution Tree",
