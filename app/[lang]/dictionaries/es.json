@@ -66,7 +66,19 @@
   },
   "evolutionTreeCreate": {
     "title": "Evolution Tree: Create",
-    "comingSoon": "Próximamente."
+    "backToEvolutionTree": "Volver a Evolution Tree",
+    "instructions": "Arma tu propia línea de digievolución: empieza con un In-TrainingⅠ y ve agregando ramas etapa por etapa (In-TrainingⅡ, Rookie, Armor/Champion/Ultimate/Hybrid y por último Mega). Podés agregar varias ramas en cada paso, y los digimon Unknown o Xros Wars se pueden sumar en cualquier etapa. Armor no tiene evolución.",
+    "rootLabel": "Elegí el In-TrainingⅠ inicial",
+    "searchLabel": "Buscar por nombre",
+    "searchPlaceholder": "Nombre del digimon",
+    "addButton": "Agregar",
+    "removeButton": "Eliminar",
+    "resetButton": "Empezar de nuevo",
+    "confirmReset": "¿Seguro que querés empezar de nuevo? Se perderá el árbol actual.",
+    "armorTerminalNote": "Armor no puede evolucionar más.",
+    "noResults": "Sin resultados.",
+    "resultsTruncated": "Mostrando los primeros {count} resultados, afiná tu búsqueda para ver más.",
+    "loading": "Cargando..."
   },
   "evolutionTreeView": {
     "backToEvolutionTree": "Volver a Evolution Tree",

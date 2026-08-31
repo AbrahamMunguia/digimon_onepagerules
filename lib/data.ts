@@ -24,6 +24,18 @@ export async function getDigimonsByIds(ids: number[]): Promise<Digimon[]> {
   return digimons.filter((digimon) => idSet.has(digimon.id));
 }
 
+// Used by the evolution tree creator to list candidates for a given tree
+// slot (e.g. "Rookie", or the Armor/Champion/Ultimate/Hybrid/Mega group).
+export async function getDigimonsByStages(stages: string[], query = ""): Promise<Digimon[]> {
+  const stageSet = new Set(stages);
+  const q = query.trim().toLowerCase();
+  return digimons.filter((digimon) => {
+    if (!digimon.stage.some((stage) => stageSet.has(stage))) return false;
+    if (q && !digimon.name.toLowerCase().includes(q)) return false;
+    return true;
+  });
+}
+
 export async function getDigimonsPage(options: {
   page?: number;
   query?: string;
