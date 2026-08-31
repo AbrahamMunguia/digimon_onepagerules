@@ -131,37 +131,52 @@ application code.
 1. If `security-report/` doesn't exist, create it along with `CHANGELOG.md` and `SUGGESTIONS.md`.
 2. Before writing, read the existing `CHANGELOG.md` to find the highest `[vN]` entry and use `N+1`
    for this run (start at `v1` if the file doesn't exist yet).
-3. Append a new entry to **`CHANGELOG.md`** (newest entry at the top, Keep-a-Changelog style):
+3. **Every finding gets a stable ID**, `SEC-NNN` (zero-padded, e.g. `SEC-007`), that never changes
+   or gets reused once assigned — this is what lets a human or the `/security-audit <id>` command
+   reference "this exact finding" later regardless of which version it currently appears in.
+   - Scan every `SEC-NNN` that has ever appeared anywhere in `CHANGELOG.md` (all versions, not just
+     the latest) and take the max `N`; a genuinely new finding gets `N+1`.
+   - A finding that's substantively the same issue as one in the immediately prior version entry
+     (same category/description, even if reworded) **reuses that finding's existing ID** — don't
+     mint a new one for something that's just still open.
+   - A finding's ID stays valid forever in history, including after it's marked RESOLVED — never
+     assign a retired ID to a different, unrelated finding later.
+4. Append a new entry to **`CHANGELOG.md`** (newest entry at the top, Keep-a-Changelog style):
 
    ```
    ## [vN] - YYYY-MM-DD
    ### Findings
-   - CRITICAL: ...
-   - HIGH: ...
-   - MEDIUM: ...
-   - LOW: ...
-   - INFO: ...
+   - [SEC-NNN] CRITICAL: ...
+   - [SEC-NNN] HIGH: ...
+   - [SEC-NNN] MEDIUM: ...
+   - [SEC-NNN] LOW: ...
+   - [SEC-NNN] INFO: ...
    ```
 
    If a prior entry exists, diff against it: findings no longer present get a trailing `(✅
-   RESOLVED since vN-1)` note, and findings that weren't in the prior entry get a leading `🆕 NEW:`
-   marker. This keeps the file an actual changelog, not a repeated snapshot. On the very first run,
-   list everything as the baseline with no NEW/RESOLVED markers.
+   RESOLVED since vN-1)` note (keep the line, keep its ID, just mark it), and findings that weren't
+   in the prior entry get a leading `🆕 NEW:` marker. This keeps the file an actual changelog, not a
+   repeated snapshot. On the very first run, list everything as the baseline with no NEW/RESOLVED
+   markers, assigning fresh sequential IDs starting at `SEC-001`.
 
-4. Append a parallel entry to **`SUGGESTIONS.md`**, cross-referenced to the same version, with
-   concrete remediation for each open finding (never applied, only described):
+5. Append a parallel entry to **`SUGGESTIONS.md`**, cross-referenced to the same version and using
+   the same `SEC-NNN` IDs, with concrete remediation for each open finding (never applied, only
+   described):
 
    ```
    ## [vN] - YYYY-MM-DD (see CHANGELOG.md vN)
-   - Remediation for <finding>: ...
-   - Remediation for <finding>: ...
+   - [SEC-NNN] Remediation for <finding>: ...
+   - [SEC-NNN] Remediation for <finding>: ...
    ```
 
    Drop remediation entries for findings marked RESOLVED in this run's changelog — don't carry
-   stale advice forward.
+   stale advice forward. For an INFO-severity finding with nothing to fix, still give it an ID and
+   line here, but say explicitly "no code change needed" rather than omitting it — a human (or the
+   `/security-audit <id>` command) may look it up by ID and needs to know that's the answer.
 
-5. After writing both files, summarize the highest-severity findings in the chat response too (not
-   just in the files) so the user doesn't have to open them to know what needs attention.
+6. After writing both files, summarize the highest-severity findings in the chat response too (not
+   just in the files) so the user doesn't have to open them to know what needs attention — mention
+   their `SEC-NNN` IDs so the user can act on one directly (e.g. via `/security-audit SEC-004`).
 
 ## How to work
 
