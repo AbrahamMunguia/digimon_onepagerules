@@ -122,6 +122,24 @@ Known classes to check for, given how this codebase is currently shaped:
   in sync (`npm ci --dry-run` or diff against `package.json`)? Are there any recently-added
   dependencies with sparse download/maintenance history? Treat `dagre@0.8.5`'s staleness as an
   ongoing low-severity watch item, not a one-time note.
+- **Library support-history norm (1 year minimum)**: this project requires every dependency to have
+  at least 365 days of span between its first and most recent npm release — see
+  [[library-support-validation]] (`.claude/skills/library-support-validation/SKILL.md`), which
+  enforces this at install time for *new* dependencies. This agent's job is the complementary
+  half: dependencies that were **already installed** before that skill existed, or that slipped
+  through, are only ever caught here — never blocked, only reported. Every run, check every entry
+  in `dependencies` and `devDependencies` (`package.json`) with the shared script:
+  ```bash
+  .claude/skills/library-support-validation/check-library-support.sh <pkg>
+  ```
+  For each one that exits `1` (FAIL), add a finding (severity LOW unless the package sits on a
+  security-sensitive path, in which case MEDIUM) citing the script's `spanDays`/release dates from
+  its JSON output. Exit `2` (registry lookup failed — private/renamed/network issue) is not a
+  finding by itself; note it only if it also blocks you from evaluating a package you'd otherwise
+  expect to check. Do not install, remove, or pin anything — as always, remediation for an open
+  finding here goes in `SUGGESTIONS.md` as guidance (e.g. "replace with `<alternative>`, which has
+  N years of release history" or "no mature alternative exists — accept as a tracked exception"),
+  never applied directly.
 
 ## Output: `security-report/`
 
