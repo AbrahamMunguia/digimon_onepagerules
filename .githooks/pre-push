@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+
+failed=0
+while read -r local_ref local_sha remote_ref remote_sha; do
+  [[ "$local_ref" == refs/heads/* ]] || continue
+  branch="${local_ref#refs/heads/}"
+  "$DIR/lib/check-branch-name.sh" "$branch" || failed=1
+done
+
+exit "$failed"

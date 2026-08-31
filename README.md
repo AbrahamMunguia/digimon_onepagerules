@@ -74,6 +74,25 @@ página de detalle de cada Digimon, que sí muestra sus líneas de evolución).
   mucho, cambiar a ISR (`dynamicParams: true` + `revalidate`) en vez de generar
   todo en build.
 
+## Convenciones de commits, branches y PRs
+
+Para poder generar el changelog automáticamente, este repo exige:
+
+- **Commits**: [Conventional Commits](https://www.conventionalcommits.org/) —
+  `<type>(<scope>)?: <descripción>`, con `type` en `feat, fix, docs, style, refactor, perf, test,
+  build, ci, chore, revert`. Ejemplo: `feat(digifarm): agregar botón de favoritos`.
+- **Branches**: [Conventional Branch](https://conventional-branch.github.io/) —
+  `<type>/<descripción-corta>`, con `type` en `feature, bugfix, hotfix, release, chore, docs,
+  refactor, test`. Ejemplo: `feature/digifarm-favoritos`. `main`, `master`, `develop` y las
+  branches `claude/*` (worktrees de Claude Code) están exentas.
+- **Títulos de PR**: mismo formato que los commits.
+
+`npm install` configura automáticamente `git config core.hooksPath .githooks`, que valida commits
+(`commit-msg`) y nombres de branch (`pre-push`) en local. Los PRs se validan también en CI
+([.github/workflows/code-standards.yml](.github/workflows/code-standards.yml)). Las reglas viven en
+[.githooks/lib/conventional.sh](.githooks/lib/conventional.sh) — es la única fuente de verdad, tanto
+para los hooks como para el skill `code-standards` de Claude Code.
+
 ## Nota sobre Next.js 16
 
 Este proyecto usa Next.js 16 (Turbopack) con el modelo de caché "clásico"
