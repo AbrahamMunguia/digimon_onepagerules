@@ -1,8 +1,11 @@
 import { cache } from "react";
 import rawProducts from "@/data/digimon.json";
+import { ProductArraySchema } from "./schemas";
 import type { Product, ProductsPage } from "./types";
 
-const products = rawProducts as Product[];
+const products: Product[] = ProductArraySchema.parse(rawProducts);
+
+export const productIds = new Set(products.map((product) => product.id));
 
 export const PAGE_SIZE = 24;
 

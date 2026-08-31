@@ -1,8 +1,17 @@
 import edges from "@/data/relationships.json";
-import { getProductById } from "./data";
+import { getProductById, productIds } from "./data";
+import { RelationshipEdgeArraySchema } from "./schemas";
 import type { Product, RelationshipEdge, RelationshipNode, RelationshipTree } from "./types";
 
-const relationshipEdges = edges as RelationshipEdge[];
+const relationshipEdges: RelationshipEdge[] = RelationshipEdgeArraySchema.parse(edges);
+
+for (const edge of relationshipEdges) {
+  if (!productIds.has(edge.from) || !productIds.has(edge.to)) {
+    throw new Error(
+      `data/relationships.json has a dangling edge: ${edge.from} -> ${edge.to} references a product id that doesn't exist in data/digimon.json`,
+    );
+  }
+}
 
 function getChildIds(id: number): number[] {
   return relationshipEdges.filter((edge) => edge.from === id).map((edge) => edge.to);
