@@ -12,6 +12,8 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Security audit reports — not app source, never linted.
+    "security-report/**",
   ]),
 ]);
 
