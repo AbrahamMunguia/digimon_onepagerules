@@ -20,6 +20,11 @@ export interface RelationshipTree {
   descendants: RelationshipNode[];
 }
 
+export interface EvolutionGraph {
+  nodes: Digimon[];
+  edges: RelationshipEdge[];
+}
+
 export interface DigimonsPage {
   items: Digimon[];
   page: number;

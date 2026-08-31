@@ -3,7 +3,7 @@ import { getDigimonById, digimonIds } from "./data";
 import { RelationshipEdgeArraySchema } from "./schemas";
 import type { Digimon, RelationshipEdge, RelationshipNode, RelationshipTree } from "./types";
 
-const relationshipEdges: RelationshipEdge[] = RelationshipEdgeArraySchema.parse(edges);
+export const relationshipEdges: RelationshipEdge[] = RelationshipEdgeArraySchema.parse(edges);
 
 for (const edge of relationshipEdges) {
   if (!digimonIds.has(edge.from) || !digimonIds.has(edge.to)) {
