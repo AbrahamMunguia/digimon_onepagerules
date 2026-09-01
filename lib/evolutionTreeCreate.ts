@@ -118,3 +118,41 @@ export function removeNode(node: EvolutionTreeNode, id: string): EvolutionTreeNo
     children: node.children.filter((child) => child.id !== id).map((child) => removeNode(child, id)),
   };
 }
+
+// JSON-serializable form of an EvolutionTreeNode (a Digimon reference by id
+// instead of the full record), used for both the localStorage draft and
+// saved trees so neither has to bundle full Digimon records into storage.
+export interface SerializedTreeNode {
+  id: string;
+  digimonId: number;
+  stage: string;
+  tier: TierKey;
+  children: SerializedTreeNode[];
+}
+
+export function serializeTree(node: EvolutionTreeNode): SerializedTreeNode {
+  return {
+    id: node.id,
+    digimonId: node.digimon.id,
+    stage: node.stage,
+    tier: node.tier,
+    children: node.children.map(serializeTree),
+  };
+}
+
+export function hydrateTree(
+  stored: SerializedTreeNode,
+  digimonMap: Map<number, Digimon>,
+): EvolutionTreeNode | null {
+  const digimon = digimonMap.get(stored.digimonId);
+  if (!digimon) return null;
+  const children = stored.children
+    .map((child) => hydrateTree(child, digimonMap))
+    .filter((child): child is EvolutionTreeNode => child !== null);
+  return { id: stored.id, digimon, stage: stored.stage, tier: stored.tier, children };
+}
+
+export function collectTreeDigimonIds(stored: SerializedTreeNode, acc: number[]): void {
+  acc.push(stored.digimonId);
+  stored.children.forEach((child) => collectTreeDigimonIds(child, acc));
+}

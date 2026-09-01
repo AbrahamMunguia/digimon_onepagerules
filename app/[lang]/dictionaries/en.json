@@ -78,16 +78,29 @@
     "armorTerminalNote": "Armor can't evolve any further.",
     "noResults": "No results.",
     "resultsTruncated": "Showing the first {count} results, refine your search to see more.",
-    "loading": "Loading..."
+    "loading": "Loading...",
+    "saveButton": "Save tree",
+    "saveSuccess": "Tree saved!"
   },
   "evolutionTreeView": {
     "backToEvolutionTree": "Back to Evolution Tree",
     "title": "Evolution Tree: View",
-    "chooseLine": "Choose an evolution line to view:"
+    "chooseLine": "Choose an evolution line to view:",
+    "savedTitle": "Saved trees",
+    "savedEmpty": "You haven't saved any trees yet.",
+    "viewSavedButton": "View",
+    "deleteSavedButton": "Delete",
+    "confirmDeleteSaved": "Delete this saved tree?",
+    "loading": "Loading saved trees..."
   },
   "evolutionTreeViewDetail": {
     "backToList": "Back to the list",
     "loading": "Loading evolution tree..."
+  },
+  "evolutionTreeViewSaved": {
+    "backToList": "Back to the list",
+    "loading": "Loading saved tree...",
+    "notFound": "This saved tree wasn't found."
   },
   "digifarm": {
     "title": "DigiFarm",
