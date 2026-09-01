@@ -78,16 +78,29 @@
     "armorTerminalNote": "Armor no puede evolucionar más.",
     "noResults": "Sin resultados.",
     "resultsTruncated": "Mostrando los primeros {count} resultados, afiná tu búsqueda para ver más.",
-    "loading": "Cargando..."
+    "loading": "Cargando...",
+    "saveButton": "Guardar árbol",
+    "saveSuccess": "¡Árbol guardado!"
   },
   "evolutionTreeView": {
     "backToEvolutionTree": "Volver a Evolution Tree",
     "title": "Evolution Tree: View",
-    "chooseLine": "Elige una línea evolutiva para visualizar:"
+    "chooseLine": "Elige una línea evolutiva para visualizar:",
+    "savedTitle": "Árboles guardados",
+    "savedEmpty": "Todavía no guardaste ningún árbol.",
+    "viewSavedButton": "Ver",
+    "deleteSavedButton": "Eliminar",
+    "confirmDeleteSaved": "¿Seguro que querés eliminar este árbol guardado?",
+    "loading": "Cargando árboles guardados..."
   },
   "evolutionTreeViewDetail": {
     "backToList": "Volver a la lista",
     "loading": "Cargando árbol evolutivo..."
+  },
+  "evolutionTreeViewSaved": {
+    "backToList": "Volver a la lista",
+    "loading": "Cargando árbol guardado...",
+    "notFound": "No se encontró este árbol guardado."
   },
   "digifarm": {
     "title": "DigiFarm",

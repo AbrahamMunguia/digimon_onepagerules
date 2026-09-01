@@ -1,4 +1,5 @@
 import Link from "next/link";
+import SavedEvolutionTreesList from "@/components/SavedEvolutionTreesList";
 import { getEvolutionRoots } from "@/lib/evolutionTree";
 import { getDictionary, hasLocale } from "../../dictionaries";
 
@@ -24,6 +25,9 @@ export default async function EvolutionTreeViewPage({
           </li>
         ))}
       </ul>
+
+      <h2>{dict.evolutionTreeView.savedTitle}</h2>
+      <SavedEvolutionTreesList lang={lang} dict={dict.evolutionTreeView} />
     </div>
   );
 }
